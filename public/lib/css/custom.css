@@ -1,0 +1,78 @@
+.top-bar {
+	background: #f1f1f1 ;
+	height: 59px;
+}
+
+.top-bar-section {
+	background: white;
+}
+
+.top-bar-section .has-form {
+	background: white;
+	width: 580px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.top-bar-section li a:not(.button) {
+	background: white;
+}
+
+.top-bar .title-area .name a {
+	width: 59px;
+}
+
+.top-bar .title-area .name img {
+	width: 59px;
+	height: auto;
+	position: absolute;
+}
+
+.top-bar .left {
+	margin-top: 6px;
+	width:600px;
+}
+
+#search-button {
+	background-color: #4d90fe;
+	background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+	border: 1px solid #3079ed;
+	padding-top: 5px;
+}
+
+#contents {
+	margin-top: 15px;
+}
+
+#article-title {
+	height: 40px;
+	padding-left: 30px;
+}
+
+#article-title h3 {
+	color: blue;
+}
+
+#article-link {
+	height: 25px;
+	padding-left: 30px;
+	color: green;
+}
+
+#article-content {
+	height: 25px;
+	padding-left: 30px;
+	color: gray;
+}
+
+#name {
+
+}
+
+#occupation {
+	height: 25px;
+}
+
+#description {
+	margin-top: -10px;
+}
