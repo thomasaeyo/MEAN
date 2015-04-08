@@ -1,3 +1,7 @@
+.topbar .nav {
+	margin-top: 30px;
+}
+
 .top-bar {
 	background: #f1f1f1 ;
 	height: 59px;
@@ -25,7 +29,6 @@
 .top-bar .title-area .name img {
 	width: 59px;
 	height: auto;
-	position: absolute;
 }
 
 .top-bar .left {
@@ -37,7 +40,7 @@
 	background-color: #4d90fe;
 	background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
 	border: 1px solid #3079ed;
-	padding-top: 5px;
+	height: 10%;
 }
 
 #contents {
