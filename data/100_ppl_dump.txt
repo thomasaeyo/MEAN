@@ -1,0 +1,11144 @@
+(lp0
+(dp1
+S'first_name'
+p2
+S'Ben'
+p3
+sS'last_name'
+p4
+S'Elowitz'
+p5
+sS'twitter_url'
+p6
+S'http://twitter.com/elowitz'
+p7
+sS'facebook_url'
+p8
+S'http://www.facebook.com/elowitz'
+p9
+sS'linkedin_url'
+p10
+S'http://www.linkedin.com/in/benelowitz'
+p11
+sS'keywords'
+p12
+(dp13
+Vcreative services
+p14
+V0.622758
+p15
+sVbusiness bookstore fatbrain.com
+p16
+V0.732048
+p17
+sVhuffington post
+p18
+V0.639306
+p19
+sVtimely commentary
+p20
+V0.623644
+p21
+sVbusiness insider
+p22
+V0.651408
+p23
+sVwetpaint entertainment media
+p24
+V0.978871
+p25
+sVbusiness development
+p26
+V0.696375
+p27
+sVmonetizeable actions
+p28
+V0.635066
+p29
+sVfitness equipment brands
+p30
+V0.71561
+p31
+sVonline luxury goods
+p32
+V0.723756
+p33
+sVforthright newsletter
+p34
+V0.645054
+p35
+sVbusiness-to-business revenue line
+p36
+V0.70226
+p37
+sVcommercial equipment lines
+p38
+V0.718544
+p39
+sVben elowitz
+p40
+V0.793772
+p41
+sVdigital publishing industry
+p42
+V0.757536
+p43
+sVmanagement consultant
+p44
+V0.624415
+p45
+sVdigital media
+p46
+V0.833871
+p47
+sVseattle interactive
+p48
+V0.62911
+p49
+sVconsumer perspective
+p50
+V0.626584
+p51
+sVtechnology platform company
+p52
+V0.807685
+p53
+sVmedia success
+p54
+V0.660884
+p55
+sVmontgomery technology conference
+p56
+V0.739435
+p57
+sVpublicly traded company
+p58
+V0.750641
+p59
+sVbusiness strategies
+p60
+V0.63774
+p61
+sVsocial media
+p62
+V0.677133
+p63
+sVgrowth-oriented company
+p64
+V0.6555
+p65
+sVwetpaint social distribution
+p66
+V0.952834
+p67
+sVdigital media publishing
+p68
+V0.794293
+p69
+sVmassive reach
+p70
+V0.63409
+p71
+sVbusiness consulting firm
+p72
+V0.736852
+p73
+sVsxsw interactive
+p74
+V0.636932
+p75
+sVprovocative insights
+p76
+V0.622578
+p77
+sVnew product development
+p78
+V0.731325
+p79
+sVprecor usa inc.
+p80
+V0.780702
+p81
+sVcorporate bookstore programs
+p82
+V0.706795
+p83
+sVunique visitors
+p84
+V0.640556
+p85
+sVthought leader
+p86
+V0.628463
+p87
+sVadweek nextech
+p88
+V0.651059
+p89
+sVben
+p90
+V0.895896
+p91
+sVfront-end operations
+p92
+V0.622678
+p93
+sVfine jewelry
+p94
+V0.62381
+p95
+sVdigital quarters
+p96
+V0.647767
+p97
+sVmajor media companies
+p98
+V0.794482
+p99
+sVcertified diamonds
+p100
+V0.621715
+p101
+sVfortune brainstorm tech
+p102
+V0.741279
+p103
+sVblue nile inc.
+p104
+V0.75118
+p105
+sVblue nile
+p106
+V0.872241
+p107
+sVproduct management
+p108
+V0.841366
+p109
+sVonline retailer
+p110
+V0.62211
+p111
+sVwell-researched analysis
+p112
+V0.631911
+p113
+ssS'img_url'
+p114
+S'http://www.crunchbase.com/person/ben-elowitz/primary-image/raw'
+p115
+sa(dp116
+g2
+S'Kevin'
+p117
+sg4
+S'Flaherty'
+p118
+sg6
+S''
+p119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/kevinflaherty'
+p120
+sg12
+(dp121
+Vsem/seo
+p122
+V0.522569
+p123
+sVprecor
+p124
+V0.540545
+p125
+sVpublic relations
+p126
+V0.634505
+p127
+sVtwitter
+p128
+V0.573293
+p129
+sVbusiness graph
+p130
+V0.618858
+p131
+sVlinkedin
+p132
+V0.60091
+p133
+sVcrunchbase
+p134
+V0.538935
+p135
+sVgoogle plus
+p136
+V0.770924
+p137
+sVcolgate palmolive
+p138
+V0.654717
+p139
+sVimages
+p140
+V0.521839
+p141
+sVsan francisco
+p142
+V0.619366
+p143
+sVnews
+p144
+V0.521896
+p145
+sVeducation
+p146
+V0.547309
+p147
+sVperson details
+p148
+V0.637101
+p149
+sVretention
+p150
+V0.524704
+p151
+sVsocial media
+p152
+V0.633674
+p153
+sVwebpresence
+p154
+V0.524613
+p155
+sVtitle
+p156
+V0.523542
+p157
+sVsupport
+p158
+V0.522147
+p159
+sVbrand development
+p160
+V0.635086
+p161
+sVjan
+p162
+V0.582805
+p163
+sVtownsend street
+p164
+V0.62203
+p165
+sVgeneral management
+p166
+V0.630158
+p167
+sVvp marketing
+p168
+V0.641819
+p169
+sVemail
+p170
+V0.548172
+p171
+sVlocation
+p172
+V0.524748
+p173
+sVinfo
+p174
+V0.525187
+p175
+sVjobs
+p176
+V0.524058
+p177
+sVwetpaint
+p178
+V0.543638
+p179
+sVshare
+p180
+V0.548684
+p181
+sVcompany
+p182
+V0.523498
+p183
+sVcreative agency management
+p184
+V0.743705
+p185
+sVfamous barr
+p186
+V0.635907
+p187
+sVsalesportal
+p188
+V0.523718
+p189
+sVritani
+p190
+V0.523118
+p191
+sVfacebook
+p192
+V0.577611
+p193
+sVdrsmedia
+p194
+V0.523821
+p195
+sVteam member
+p196
+V0.932326
+p197
+sVrelease notes
+p198
+V0.625395
+p199
+sVadvisor roles
+p200
+V0.624036
+p201
+sVst. louis
+p202
+V0.75021
+p203
+sVwashington university
+p204
+V0.742803
+p205
+sVindiana university
+p206
+V0.626978
+p207
+sVgender
+p208
+V0.523577
+p209
+sVsite map
+p210
+V0.62681
+p211
+sVkevin flaherty
+p212
+V0.830129
+p213
+sVblog
+p214
+V0.522001
+p215
+sVmemberships
+p216
+V0.523269
+p217
+sVcustomer acquisition
+p218
+V0.631718
+p219
+sVmale
+p220
+V0.524793
+p221
+ssg114
+S'http://www.crunchbase.com/person/kevin-flaherty/primary-image/raw'
+p222
+sa(dp223
+g2
+S'Ian'
+p224
+sg4
+S'Wenig'
+p225
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/profile/view?id=1633445'
+p226
+sg12
+(dp227
+Vconfidence
+p228
+V0.488214
+p229
+sVservice consultancy
+p230
+V0.658167
+p231
+sVian wenig
+p232
+V0.941093
+p233
+sVcommitment
+p234
+V0.488771
+p235
+sVpartner development
+p236
+V0.687062
+p237
+sVchannel-dev consulting
+p238
+V0.66078
+p239
+sVinsightful communication skills
+p240
+V0.949345
+p241
+sVpresident
+p242
+V0.470324
+p243
+sVrevenue growth
+p244
+V0.748904
+p245
+sVintegrity
+p246
+V0.48238
+p247
+sVsoftware industry
+p248
+V0.693406
+p249
+sVpartnerships
+p250
+V0.495904
+p251
+ssg114
+g119
+sa(dp252
+g2
+S'Owen'
+p253
+sg4
+S'Byrne'
+p254
+sg6
+S'http://twitter.com/owenbyrne'
+p255
+sg8
+g119
+sg10
+g119
+sg12
+(dp256
+Velance
+p257
+V0.350007
+p258
+sVdigg.com
+p259
+V0.245086
+p260
+sVbusiness
+p261
+V0.245509
+p262
+sVoriginal digg site
+p263
+V0.911693
+p264
+sVkevin rose
+p265
+V0.670912
+p266
+sVdigg founder kevin
+p267
+V0.922352
+p268
+sVbeta site
+p269
+V0.449466
+p270
+sVbug
+p271
+V0.268337
+p272
+sVcost
+p273
+V0.251341
+p274
+sVowen byrne
+p275
+V0.586026
+p276
+sVtruth
+p277
+V0.264438
+p278
+sVphp code
+p279
+V0.485978
+p280
+sVequity
+p281
+V0.26651
+p282
+sVcompany
+p283
+V0.246
+p284
+sVlegend
+p285
+V0.273249
+p286
+ssg114
+S'http://www.crunchbase.com/person/owen-byrne/primary-image/raw'
+p287
+sa(dp288
+g2
+S'Mark'
+p289
+sg4
+S'Zuckerberg'
+p290
+sg6
+S'http://twitter.com/finkd'
+p291
+sg8
+S'http://www.facebook.com/zuck'
+p292
+sg10
+S'https://www.linkedin.com/profile/view?id=2062984&authType=NAME_SEARCH&authToken=SLcJ&locale=en_US&srchid=2594573781412492070644&srchindex=1&srchtotal=1&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2594573781412492070644%2CVSRPtargetId%3A2062984%2CVSRPcmpt%3Aprimary'
+p293
+sg12
+(dp294
+Vwebsite
+p295
+V0.348424
+p296
+sVnew projects
+p297
+V0.60257
+p298
+sVfounder
+p299
+V0.356965
+p300
+sVnewark public school
+p301
+V0.806723
+p302
+sVcore technology
+p303
+V0.608935
+p304
+sVproduct strategy
+p305
+V0.630318
+p306
+sVharvard university
+p307
+V0.931212
+p308
+sVmark zuckerberg
+p309
+V0.643591
+p310
+sVmusic recommendation
+p311
+V0.612298
+p312
+sVchris hughes
+p313
+V0.640948
+p314
+sVservice
+p315
+V0.352123
+p316
+sVdorm photos
+p317
+V0.65144
+p318
+sVsubsequent disciplinary action
+p319
+V0.844788
+p320
+sVnew york
+p321
+V0.625176
+p322
+sVcalifornia
+p323
+V0.35114
+p324
+sVdevelopment
+p325
+V0.352074
+p326
+sVlife
+p327
+V0.35067
+p328
+sVinfrastructure
+p329
+V0.349491
+p330
+sVwirehog
+p331
+V0.35031
+p332
+sVcompany
+p333
+V0.405953
+p334
+sVharvard administration
+p335
+V0.656097
+p336
+sVfacebook
+p337
+V0.752243
+p338
+sVpalo alto
+p339
+V0.613657
+p340
+sVcrunchie award
+p341
+V0.882798
+p342
+sVsynapse
+p343
+V0.374682
+p344
+sVpeer-to-peer client
+p345
+V0.616516
+p346
+sVoverall direction
+p347
+V0.629881
+p348
+sVscience
+p349
+V0.399792
+p350
+sVtime magazine
+p351
+V0.583413
+p352
+sVstartup ceo
+p353
+V0.650234
+p354
+sVroomates dustin moskovitz
+p355
+V0.980035
+p356
+sVcollege dorm room
+p357
+V0.992389
+p358
+sVfacemash
+p359
+V0.348494
+p360
+sVdesign
+p361
+V0.352221
+p362
+ssg114
+S'http://www.crunchbase.com/person/mark-zuckerberg/primary-image/raw'
+p363
+sa(dp364
+g2
+S'Dustin'
+p365
+sg4
+S'Moskovitz'
+p366
+sg6
+S'http://twitter.com/moskov'
+p367
+sg8
+S'http://www.facebook.com/moskov'
+p368
+sg10
+g119
+sg12
+(dp369
+Vandrew mccollum
+p370
+V0.620763
+p371
+sVchris hughes
+p372
+V0.545977
+p373
+sVnetworking website facebook
+p374
+V0.983379
+p375
+sVdustin moskovitz
+p376
+V0.598628
+p377
+sVamerican internet entrepreneur
+p378
+V0.848328
+p379
+sVasana
+p380
+V0.336507
+p381
+sVjustin rosenstein
+p382
+V0.632978
+p383
+sVeduardo saverin
+p384
+V0.581287
+p385
+sVmark zuckerberg
+p386
+V0.48731
+p387
+ssg114
+S'http://www.crunchbase.com/person/dustin-moskovitz/primary-image/raw'
+p388
+sa(dp389
+g2
+S'Owen'
+p390
+sg4
+S'Van Natta'
+p391
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/0/0a7/444'
+p392
+sg12
+(dp393
+Vowen van natta
+p394
+V0.893932
+p395
+sVworldwide business
+p396
+V0.527065
+p397
+sVnumber
+p398
+V0.422898
+p399
+sVstrategic partnerships
+p400
+V0.645787
+p401
+sVmyspace team
+p402
+V0.544107
+p403
+sVcritical business functions
+p404
+V0.658744
+p405
+sVa9.com
+p406
+V0.43887
+p407
+sVcontent
+p408
+V0.421305
+p409
+sVexecution
+p410
+V0.424243
+p411
+sVcustom playlists
+p412
+V0.535293
+p413
+sVmember
+p414
+V0.422558
+p415
+sVsanta cruz
+p416
+V0.524654
+p417
+sVcorporate development
+p418
+V0.646402
+p419
+sVmusic
+p420
+V0.436911
+p421
+sVrevenue operations
+p422
+V0.536404
+p423
+sVexecutive vice president
+p424
+V0.701383
+p425
+sVzynga board
+p426
+V0.535443
+p427
+sVproject playlist
+p428
+V0.669256
+p429
+sVaspects
+p430
+V0.422054
+p431
+sVusers
+p432
+V0.42144
+p433
+sVrole
+p434
+V0.423499
+p435
+sVbrand
+p436
+V0.423294
+p437
+sVinternational expansion
+p438
+V0.542785
+p439
+sVamazon.com search company
+p440
+V0.640496
+p441
+sVbachelor
+p442
+V0.422463
+p443
+sVbusiness development
+p444
+V0.527945
+p445
+sVchief executive officer
+p446
+V0.887593
+p447
+sVrevenue strategy
+p448
+V0.556024
+p449
+sVglobal marketing programs
+p450
+V0.624463
+p451
+sVchief operating officer
+p452
+V0.670369
+p453
+sVfriends
+p454
+V0.421285
+p455
+sVsponsored-link advertising
+p456
+V0.520538
+p457
+sVdirectors
+p458
+V0.422495
+p459
+sVsite operations
+p460
+V0.518272
+p461
+sVfacebook
+p462
+V0.430167
+p463
+sVglobal business initiatives
+p464
+V0.646003
+p465
+sVvan natta
+p466
+V0.914681
+p467
+ssg114
+S'http://www.crunchbase.com/person/owen-van-natta/primary-image/raw'
+p468
+sa(dp469
+g2
+S'Matt'
+p470
+sg4
+S'Cohler'
+p471
+sg6
+S'http://twitter.com/mattcohler'
+p472
+sg8
+S'http://www.facebook.com/matt'
+p473
+sg10
+S'http://www.linkedin.com/in/mcohler'
+p474
+sg12
+(dp475
+Vbeijing
+p476
+V0.349206
+p477
+sVinstagram
+p478
+V0.344281
+p479
+sVvice president
+p480
+V0.56771
+p481
+sVglobe
+p482
+V0.345756
+p483
+sVinvestment opportunities
+p484
+V0.586704
+p485
+sVlinkedin
+p486
+V0.390189
+p487
+sVnew strategic initiatives
+p488
+V0.796821
+p489
+sVgeneral manager
+p490
+V0.553218
+p491
+sVchinese startup
+p492
+V0.589773
+p493
+sVcritical growth phases
+p494
+V0.791177
+p495
+sVgeneral partner
+p496
+V0.602039
+p497
+sVfirm\u2019s portfolio
+p498
+V0.584517
+p499
+sVhonors
+p500
+V0.346188
+p501
+sVinternet-related companies
+p502
+V0.61706
+p503
+sVaddition
+p504
+V0.346407
+p505
+sVmckinsey
+p506
+V0.380762
+p507
+sVmember
+p508
+V0.340771
+p509
+sVyale university
+p510
+V0.554711
+p511
+sVasana
+p512
+V0.374685
+p513
+sVzendesk
+p514
+V0.343729
+p515
+sVemployee
+p516
+V0.341993
+p517
+sVharvard business review
+p518
+V0.746902
+p519
+sVcloud industries
+p520
+V0.584126
+p521
+sVdevelopment
+p522
+V0.342754
+p523
+sVcrucial role
+p524
+V0.583752
+p525
+sVpeixe urbano
+p526
+V0.67895
+p527
+sVdomo
+p528
+V0.387389
+p529
+sVcompany
+p530
+V0.378815
+p531
+sVquora
+p532
+V0.344189
+p533
+sVbenchmark
+p534
+V0.552947
+p535
+sVbachelor
+p536
+V0.347122
+p537
+sVfacebook
+p538
+V0.463758
+p539
+sVdropbox
+p540
+V0.39389
+p541
+sVvp
+p542
+V0.37088
+p543
+sVmatt cohler
+p544
+V0.903149
+p545
+sVmainland china
+p546
+V0.561103
+p547
+sVedmodo
+p548
+V0.344051
+p549
+sVentrepreneurs
+p550
+V0.352478
+p551
+sVcouchsurfing
+p552
+V0.396924
+p553
+sVteam
+p554
+V0.370823
+p555
+sVproduct management
+p556
+V0.569142
+p557
+sVdistinction
+p558
+V0.356081
+p559
+sVresearchgate
+p560
+V0.343844
+p561
+sVbaixing
+p562
+V0.397026
+p563
+sVstartup economy
+p564
+V0.586204
+p565
+sVsilicon valley office
+p566
+V0.764075
+p567
+ssg114
+S'http://www.crunchbase.com/person/matt-cohler/primary-image/raw'
+p568
+sa(dp569
+g2
+S'Chris'
+p570
+sg4
+S'Hughes'
+p571
+sg6
+S'https://twitter.com/chrishughes'
+p572
+sg8
+S'https://www.facebook.com/ChrisHughes'
+p573
+sg10
+S'http://www.linkedin.com/in/chrisrhughes'
+p574
+sg12
+(dp575
+Vcampaign website
+p576
+V0.498611
+p577
+sVlong-term relationships
+p578
+V0.618151
+p579
+sVoriginal co-founder
+p580
+V0.66656
+p581
+sVpresident obama
+p582
+V0.611431
+p583
+sVsocial web
+p584
+V0.556793
+p585
+sVresidence
+p586
+V0.221357
+p587
+sVgeneral catalyst partners
+p588
+V0.929671
+p589
+sVstartup
+p590
+V0.238351
+p591
+sVresponsibility
+p592
+V0.227121
+p593
+sVjumo
+p594
+V0.588374
+p595
+sVentrepreneur
+p596
+V0.238894
+p597
+sVchris hughes
+p598
+V0.713403
+p599
+sVsocial media campaign
+p600
+V0.828101
+p601
+sVfacebook
+p602
+V0.27193
+p603
+sV2008 presidential election
+p604
+V0.960994
+p605
+ssg114
+S'http://www.crunchbase.com/person/chris-hughes/primary-image/raw'
+p606
+sa(dp607
+g2
+S'Darren'
+p608
+sg4
+S'Crystal'
+p609
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/darren-crystal/0/7a7/358'
+p610
+sg12
+(dp611
+Vnetwork infrastructures
+p612
+V0.520164
+p613
+sVco-founding photobucket
+p614
+V0.75774
+p615
+sVlarge unix
+p616
+V0.499451
+p617
+sVexperience designing
+p618
+V0.510497
+p619
+sValex welch
+p620
+V0.584543
+p621
+sVco-founder
+p622
+V0.369677
+p623
+sVdarren
+p624
+V0.933498
+p625
+sVibm global services
+p626
+V0.663894
+p627
+sVtexas
+p628
+V0.332086
+p629
+sVnetwork engineer
+p630
+V0.515112
+p631
+sVtechnology infrastructure
+p632
+V0.532318
+p633
+sVsoftware architect
+p634
+V0.524278
+p635
+sVeaton semiconductors
+p636
+V0.546355
+p637
+sVdell corporation
+p638
+V0.533184
+p639
+sVuniversity
+p640
+V0.332155
+p641
+sVlevel
+p642
+V0.334375
+p643
+sVcompanies
+p644
+V0.331709
+p645
+sVcommunications
+p646
+V0.334305
+p647
+sVarchitecture
+p648
+V0.335606
+p649
+sVelectrical engineering
+p650
+V0.501849
+p651
+sVaustin
+p652
+V0.332016
+p653
+sVindustry
+p654
+V0.332382
+p655
+ssg114
+S'http://www.crunchbase.com/person/darren-crystal/primary-image/raw'
+p656
+sa(dp657
+g2
+S'Michael'
+p658
+sg4
+S'Clark'
+p659
+sg6
+S'http://twitter.com/mpclark3'
+p660
+sg8
+S'http://www.facebook.com/mpclark3'
+p661
+sg10
+S'http://www.linkedin.com/in/mpclark'
+p662
+sg12
+(dp663
+Vproduct planning
+p664
+V0.688906
+p665
+sVpeople
+p666
+V0.448433
+p667
+sVvice president
+p668
+V0.71938
+p669
+sVtechnology
+p670
+V0.444654
+p671
+sVco-founder
+p672
+V0.482469
+p673
+sVbs degree
+p674
+V0.692461
+p675
+sVphilips electronics lms
+p676
+V0.940114
+p677
+sVprivacy
+p678
+V0.45998
+p679
+sVuser experience
+p680
+V0.677573
+p681
+sVsoftware architecture
+p682
+V0.679586
+p683
+sVsafety
+p684
+V0.448097
+p685
+sVidentity
+p686
+V0.448246
+p687
+sVmike
+p688
+V0.443351
+p689
+sVinfrastructure
+p690
+V0.448665
+p691
+sVcitrix systems
+p692
+V0.685576
+p693
+sVtechnical roles
+p694
+V0.669774
+p695
+sVengineering services
+p696
+V0.663385
+p697
+sVtigi corporation
+p698
+V0.723647
+p699
+sVarchitectures
+p700
+V0.464689
+p701
+sVvarious director level
+p702
+V0.877516
+p703
+sVlarge enterprise accounts
+p704
+V0.888886
+p705
+sVnetwork appliance
+p706
+V0.680654
+p707
+sVphotobucket
+p708
+V0.904022
+p709
+sVsoftware development
+p710
+V0.688464
+p711
+sVcontent moderation
+p712
+V0.722775
+p713
+sVinternet communications corporation
+p714
+V0.869788
+p715
+sVmichael
+p716
+V0.548156
+p717
+sVcloud-based personal security
+p718
+V0.984888
+p719
+sVproducts company
+p720
+V0.716061
+p721
+sVreputation
+p722
+V0.476363
+p723
+sVmediaone group
+p724
+V0.654128
+p725
+sVsafetyweb
+p726
+V0.448807
+p727
+ssg114
+S'http://www.crunchbase.com/person/michael-clark/primary-image/raw'
+p728
+sa(dp729
+g2
+S'Greg'
+p730
+sg4
+S'Wimmer'
+p731
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/gregwimmer'
+p732
+sg12
+(dp733
+Vcompany administration
+p734
+V0.504651
+p735
+sVsuccessful operating companies
+p736
+V0.582058
+p737
+sVnightfire software
+p738
+V0.508394
+p739
+sVvice president
+p740
+V0.512557
+p741
+sVaccounting firm
+p742
+V0.498432
+p743
+sVadministrative operations
+p744
+V0.509784
+p745
+sVstrategic role
+p746
+V0.500654
+p747
+sVnsr
+p748
+V0.427521
+p749
+sVchief financial officer
+p750
+V0.583804
+p751
+sVventure capitalists
+p752
+V0.515509
+p753
+sVvite
+p754
+V0.431276
+p755
+sVneustar
+p756
+V0.429464
+p757
+sVsequoia capital
+p758
+V0.508494
+p759
+sVphotobucket
+p760
+V0.512437
+p761
+sVcorporate finance
+p762
+V0.524533
+p763
+sVseries
+p764
+V0.416884
+p765
+sVmr. wimmer
+p766
+V0.91403
+p767
+sVventure financings
+p768
+V0.518843
+p769
+sVmitsui ventures
+p770
+V0.533525
+p771
+sVbluerun ventures
+p772
+V0.52264
+p773
+sVkey role
+p774
+V0.505254
+p775
+sVcertified public accountant
+p776
+V0.579003
+p777
+sVgreg wimmer
+p778
+V0.68507
+p779
+sVdeloitte
+p780
+V0.426357
+p781
+sVintel capital
+p782
+V0.505405
+p783
+sVfrancisco bay area
+p784
+V0.611695
+p785
+sVtax practices
+p786
+V0.491604
+p787
+sVuniversity
+p788
+V0.425785
+p789
+sVhummer winblad
+p790
+V0.52708
+p791
+sVdfj
+p792
+V0.416782
+p793
+sVsuccessful enterprise
+p794
+V0.504618
+p795
+sVzembu labs
+p796
+V0.497356
+p797
+sVpalo alto
+p798
+V0.602983
+p799
+sVsan jose office
+p800
+V0.56714
+p801
+sVaudit
+p802
+V0.434535
+p803
+sVusvp
+p804
+V0.433762
+p805
+sVfinance degrees
+p806
+V0.501445
+p807
+sVdmv veritas
+p808
+V0.516972
+p809
+sVmanagement leadership
+p810
+V0.514847
+p811
+sVnew enterprise associates
+p812
+V0.591105
+p813
+sVstart-up
+p814
+V0.416884
+p815
+sVmanagement consultant
+p816
+V0.492204
+p817
+sVliquidation
+p818
+V0.419407
+p819
+sVtouche
+p820
+V0.424212
+p821
+sVtax services
+p822
+V0.493563
+p823
+sVqualcomm ventures
+p824
+V0.532621
+p825
+sVinc.
+p826
+V0.430638
+p827
+sVinnovative technology companies
+p828
+V0.613283
+p829
+ssg114
+S'http://www.crunchbase.com/person/greg-wimmer/primary-image/raw'
+p830
+sa(dp831
+g2
+S'Peter'
+p832
+sg4
+S'Pham'
+p833
+sg6
+S'http://twitter.com/peterpham'
+p834
+sg8
+S'http://www.facebook.com/peterpham1'
+p835
+sg10
+S'http://www.linkedin.com/in/peterpham'
+p836
+sg12
+(dp837
+Vpeople
+p838
+V0.448079
+p839
+sVcolor
+p840
+V0.445754
+p841
+sVvice president
+p842
+V0.747777
+p843
+sVproximity
+p844
+V0.467137
+p845
+sVfox interactive media
+p846
+V0.961125
+p847
+sVgrowth
+p848
+V0.449437
+p849
+sVbiological sciences
+p850
+V0.678956
+p851
+sVpartner
+p852
+V0.456147
+p853
+sV61m users
+p854
+V0.701016
+p855
+sVco-founder
+p856
+V0.576985
+p857
+sVmillion users
+p858
+V0.694614
+p859
+sVphotobucket
+p860
+V0.683373
+p861
+sVellie
+p862
+V0.47585
+p863
+sVentrepreneur in residence
+p864
+V0.714537
+p865
+sVmoney
+p866
+V0.448025
+p867
+sVemployee
+p868
+V0.449598
+p869
+sVstage companies peter
+p870
+V0.923871
+p871
+sVenergy
+p872
+V0.448158
+p873
+sVdivision
+p874
+V0.448954
+p875
+sVnews corporation
+p876
+V0.703938
+p877
+sVdegree
+p878
+V0.444933
+p879
+sVceo
+p880
+V0.558032
+p881
+sVirvine
+p882
+V0.450028
+p883
+sVbachelor
+p884
+V0.454414
+p885
+sVjourney
+p886
+V0.446091
+p887
+sVlet
+p888
+V0.450779
+p889
+sVinception
+p890
+V0.476208
+p891
+sVbusiness development
+p892
+V0.703636
+p893
+sVdollar shave club
+p894
+V0.941298
+p895
+sVbillshrink
+p896
+V0.49224
+p897
+sVsocial interactions
+p898
+V0.68777
+p899
+sVuniversity
+p900
+V0.444617
+p901
+sVtrinity ventures
+p902
+V0.682686
+p903
+sVfuture
+p904
+V0.445676
+p905
+sVbusiness management
+p906
+V0.672604
+p907
+sVtruaxis
+p908
+V0.448436
+p909
+sVmastercard
+p910
+V0.484698
+p911
+sVtime
+p912
+V0.475148
+p913
+sVcalifornia
+p914
+V0.444564
+p915
+sVacquisition
+p916
+V0.449909
+p917
+ssg114
+S'http://www.crunchbase.com/person/peter-pham/primary-image/raw'
+p918
+sa(dp919
+g2
+S'Alice'
+p920
+sg4
+S'Lankester'
+p921
+sg6
+S'http://twitter.com/bigchiefalice'
+p922
+sg8
+S'http://www.facebook.com/alicelankester'
+p923
+sg10
+S'http://www.linkedin.com/in/alicelankester'
+p924
+sg12
+(dp925
+Vheart
+p926
+V0.535418
+p927
+sVibm/macintosh software startup
+p928
+V0.845791
+p929
+sVhttp://www.friend2friend.com/clients/
+p930
+V0.534115
+p931
+sVbrand marketing
+p932
+V0.759253
+p933
+sVsocial platforms
+p934
+V0.720785
+p935
+sVfox interactive media
+p936
+V0.862774
+p937
+sVcomscore media metrix
+p938
+V0.875508
+p939
+sVvideo sharing site
+p940
+V0.85493
+p941
+sVnickelodeon
+p942
+V0.550895
+p943
+sVphotobucket
+p944
+V0.572177
+p945
+sVvariety
+p946
+V0.529724
+p947
+sVapple computer uk
+p948
+V0.690462
+p949
+sVnew belgium brewing
+p950
+V0.874526
+p951
+sVunited kingdom
+p952
+V0.809476
+p953
+sVuniversal pictures
+p954
+V0.706397
+p955
+sVclient base
+p956
+V0.707347
+p957
+sVmarketing organization
+p958
+V0.733608
+p959
+sVbusiness brands
+p960
+V0.701724
+p961
+sVeurope
+p962
+V0.535338
+p963
+sVpersonal photo
+p964
+V0.692807
+p965
+sVsilicon valley settler
+p966
+V0.894594
+p967
+sVproduct development
+p968
+V0.685691
+p969
+sVtenure
+p970
+V0.550063
+p971
+sVglobal consumer
+p972
+V0.706967
+p973
+sVchief marketing office
+p974
+V0.94569
+p975
+sVsymantec corporation
+p976
+V0.700053
+p977
+sVsalesforce
+p978
+V0.570477
+p979
+sVlevel marketing roles
+p980
+V0.888699
+p981
+sVsilicon valley
+p982
+V0.913474
+p983
+sVexecutive level marketing
+p984
+V0.969203
+p985
+sVunique users/month worldwide
+p986
+V0.856596
+p987
+sVcmo
+p988
+V0.573071
+p989
+sVfriend2friend
+p990
+V0.686684
+p991
+sVphotobucket.com
+p992
+V0.531212
+p993
+sVintel
+p994
+V0.537702
+p995
+sVlong career
+p996
+V0.68596
+p997
+sValice
+p998
+V0.997718
+p999
+sVexperience
+p1000
+V0.535513
+p1001
+sVexecutive team level
+p1002
+V0.876999
+p1003
+sVcorporate marketing strategy
+p1004
+V0.946955
+p1005
+sVhigh technology companies
+p1006
+V0.850537
+p1007
+sVleeds university
+p1008
+V0.684806
+p1009
+sVmicrosoft
+p1010
+V0.532232
+p1011
+ssg114
+S'http://www.crunchbase.com/person/alice-lankester/primary-image/raw'
+p1012
+sa(dp1013
+g2
+S'Gus'
+p1014
+sg4
+S'Tai'
+p1015
+sg6
+S'http://twitter.com/gustai'
+p1016
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/gus-tai/0/6/328'
+p1017
+sg12
+(dp1018
+Vearly-stage companies
+p1019
+V0.511828
+p1020
+sVdigital equipment corporation
+p1021
+V0.767298
+p1022
+sVtechnology firms
+p1023
+V0.422353
+p1024
+sVtrinity ventures
+p1025
+V0.979328
+p1026
+sVbusiness strategy
+p1027
+V0.401678
+p1028
+sVgus
+p1029
+V0.586406
+p1030
+sVtrack record
+p1031
+V0.441761
+p1032
+sVbusiness models
+p1033
+V0.417759
+p1034
+sVcompany formation
+p1035
+V0.462312
+p1036
+sVnew product development
+p1037
+V0.773573
+p1038
+sVoperational career
+p1039
+V0.447523
+p1040
+sVforbes midas list
+p1041
+V0.951836
+p1042
+sVengineering management
+p1043
+V0.418892
+p1044
+ssg114
+S'http://www.crunchbase.com/person/gus-tai/primary-image/raw'
+p1045
+sa(dp1046
+g2
+S'David'
+p1047
+sg4
+S'Sacks'
+p1048
+sg6
+S'http://twitter.com/DavidSacks'
+p1049
+sg8
+S'http://www.facebook.com/sacks'
+p1050
+sg10
+S'http://www.linkedin.com/in/davidoliversacks'
+p1051
+sg12
+(dp1052
+Vb.a.
+p1053
+V0.337054
+p1054
+sVnetworking website
+p1055
+V0.54636
+p1056
+sVacquisition
+p1057
+V0.358608
+p1058
+sVfounder
+p1059
+V0.343796
+p1060
+sVceo
+p1061
+V0.387796
+p1062
+sVstanford university
+p1063
+V0.539929
+p1064
+sVpaypal
+p1065
+V0.383243
+p1066
+sVdavid o. sacks
+p1067
+V0.917476
+p1068
+sVebay
+p1069
+V0.377154
+p1070
+sVgeni.com
+p1071
+V0.33897
+p1072
+sVfamily tree building
+p1073
+V0.75645
+p1074
+sVcoo
+p1075
+V0.413948
+p1076
+sVhit movie
+p1077
+V0.566731
+p1078
+sVeconomics
+p1079
+V0.336954
+p1080
+sVsmoking
+p1081
+V0.357416
+p1082
+sVmicrosoft
+p1083
+V0.337446
+p1084
+sVchicago law school
+p1085
+V0.728062
+p1086
+sVyammer
+p1087
+V0.372889
+p1088
+ssg114
+S'http://www.crunchbase.com/person/david-sacks/primary-image/raw'
+p1089
+sa(dp1090
+g2
+S'Alan'
+p1091
+sg4
+S'Braverman'
+p1092
+sg6
+S'http://twitter.com/alanb42'
+p1093
+sg8
+S'http://www.facebook.com/alanbraverman'
+p1094
+sg10
+S'http://www.linkedin.com/in/alanb'
+p1095
+sg12
+(dp1096
+Vuniversal loyalty currency
+p1097
+V0.479163
+p1098
+sVprofile
+p1099
+V0.319916
+p1100
+sVtownsend street
+p1101
+V0.396575
+p1102
+sVboard member
+p1103
+V0.477319
+p1104
+sVbusiness graph
+p1105
+V0.394407
+p1106
+sVlinkedin
+p1107
+V0.37187
+p1108
+sVvp
+p1109
+V0.323012
+p1110
+sVcrunchbase
+p1111
+V0.333522
+p1112
+sVphysical goods
+p1113
+V0.398169
+p1114
+sVgoogle plus
+p1115
+V0.518833
+p1116
+sVcity driver
+p1117
+V0.39902
+p1118
+sVsan francisco
+p1119
+V0.396535
+p1120
+sVpartner
+p1121
+V0.395902
+p1122
+sValan braverman
+p1123
+V0.795482
+p1124
+sVmobile apps
+p1125
+V0.397813
+p1126
+sVco-founder
+p1127
+V0.320949
+p1128
+sVwebpresence
+p1129
+V0.368541
+p1130
+sVplatform offering
+p1131
+V0.400154
+p1132
+sVon-demand valet service
+p1133
+V0.522555
+p1134
+sVgiant pixel corporation
+p1135
+V0.902724
+p1136
+sVxoom corporation
+p1137
+V0.422541
+p1138
+sVprimary role
+p1139
+V0.420223
+p1140
+sVperson details
+p1141
+V0.40746
+p1142
+sValanb42
+p1143
+V0.335117
+p1144
+sVtweets
+p1145
+V0.325887
+p1146
+sVtwitter
+p1147
+V0.38866
+p1148
+sVsocial media analytics
+p1149
+V0.480192
+p1150
+sVparakweet
+p1151
+V0.332642
+p1152
+sVjobs
+p1153
+V0.320115
+p1154
+sVshare
+p1155
+V0.340997
+p1156
+sVmedia companies
+p1157
+V0.395069
+p1158
+sVfacebook
+p1159
+V0.356243
+p1160
+sVjul
+p1161
+V0.360162
+p1162
+sVeventbrite
+p1163
+V0.330866
+p1164
+sVbs
+p1165
+V0.320592
+p1166
+sVteam member
+p1167
+V0.409529
+p1168
+sVrelease notes
+p1169
+V0.40216
+p1170
+sVpocket change
+p1171
+V0.477478
+p1172
+sVadvisor roles
+p1173
+V0.402958
+p1174
+sVinfo
+p1175
+V0.32216
+p1176
+sVhttp://alanb.com
+p1177
+V0.32061
+p1178
+sVuiuc
+p1179
+V0.321504
+p1180
+sVsite map
+p1181
+V0.402969
+p1182
+sVlocation
+p1183
+V0.320705
+p1184
+sVemail
+p1185
+V0.340694
+p1186
+sVseed
+p1187
+V0.351441
+p1188
+sVgeni
+p1189
+V0.330771
+p1190
+sVradius
+p1191
+V0.320255
+p1192
+sVmale
+p1193
+V0.320732
+p1194
+sVinvestments
+p1195
+V0.366493
+p1196
+ssg114
+S'http://www.crunchbase.com/person/alan-braverman/primary-image/raw'
+p1197
+sa(dp1198
+g2
+S'Luke'
+p1199
+sg4
+S'Nosek'
+p1200
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/lukenosek'
+p1201
+sg12
+(dp1202
+Vinstant transfer
+p1203
+V0.551099
+p1204
+sVventure investments
+p1205
+V0.544008
+p1206
+sVvice president
+p1207
+V0.608663
+p1208
+sVcustomers
+p1209
+V0.340372
+p1210
+sVproduct
+p1211
+V0.338962
+p1212
+sVillinois
+p1213
+V0.33687
+p1214
+sVco-founder
+p1215
+V0.378167
+p1216
+sVconsumer internet companies
+p1217
+V0.711585
+p1218
+sVb.s.
+p1219
+V0.337175
+p1220
+sVstrategy
+p1221
+V0.344174
+p1222
+sVadvertising network
+p1223
+V0.522235
+p1224
+sVevangelist
+p1225
+V0.360579
+p1226
+sVuser base
+p1227
+V0.546414
+p1228
+sVluke
+p1229
+V0.926785
+p1230
+sVcompany
+p1231
+V0.380419
+p1232
+sVpaypal
+p1233
+V0.74999
+p1234
+sVmarketing efforts
+p1235
+V0.546957
+p1236
+sVurbana-champaign
+p1237
+V0.362842
+p1238
+sVnetscape
+p1239
+V0.357594
+p1240
+sVlaunch
+p1241
+V0.355616
+p1242
+sVscience
+p1243
+V0.337061
+p1244
+sVuniversity
+p1245
+V0.336947
+p1246
+sVluke nosek
+p1247
+V0.880735
+p1248
+ssg114
+S'http://www.crunchbase.com/person/luke-nosek/primary-image/raw'
+p1249
+sa(dp1250
+g2
+S'Jason'
+p1251
+sg4
+S'Rubin'
+p1252
+sg6
+S'http://twitter.com/jason_rubin'
+p1253
+sg8
+S'http://www.facebook.com/thejasonrubin'
+p1254
+sg10
+S'http://www.linkedin.com/in/jasonrubin'
+p1255
+sg12
+(dp1256
+Vdirector
+p1257
+V0.254779
+p1258
+sVnaughty dog
+p1259
+V0.59599
+p1260
+sVflektor team
+p1261
+V0.510162
+p1262
+sVgames
+p1263
+V0.250042
+p1264
+sVmyspace
+p1265
+V0.281293
+p1266
+sVjason rubin
+p1267
+V0.868149
+p1268
+sVfox interactive
+p1269
+V0.504315
+p1270
+sVgame development studio
+p1271
+V0.807007
+p1272
+sVbranded portal
+p1273
+V0.536764
+p1274
+sVfriend andy gavin
+p1275
+V0.896984
+p1276
+sVinternet company founder
+p1277
+V0.865765
+p1278
+sVcomic book creator
+p1279
+V0.888496
+p1280
+sVsocial platform
+p1281
+V0.50514
+p1282
+sVpartner
+p1283
+V0.265132
+p1284
+sVamerican video game
+p1285
+V0.871752
+p1286
+sVcrash bandicoot series
+p1287
+V0.929105
+p1288
+sVrest
+p1289
+V0.27159
+p1290
+sVchildhood
+p1291
+V0.271359
+p1292
+sVco-founder
+p1293
+V0.296688
+p1294
+sVmedia mashup tool
+p1295
+V0.86014
+p1296
+ssg114
+S'http://www.crunchbase.com/person/jason-rubin/primary-image/raw'
+p1297
+sa(dp1298
+g2
+S'Jason'
+p1299
+sg4
+S'Kay'
+p1300
+sg6
+S'http://twitter.com/jkay747'
+p1301
+sg8
+S'http://www.facebook.com/jasonkay'
+p1302
+sg10
+S'http://www.linkedin.com/in/flektor'
+p1303
+sg12
+(dp1304
+Vproducer
+p1305
+V0.53366
+p1306
+sVbroad background
+p1307
+V0.762489
+p1308
+sVmanagement portfolio
+p1309
+V0.717182
+p1310
+sVfox interactive media
+p1311
+V0.921188
+p1312
+sVmycaster
+p1313
+V0.535208
+p1314
+sVflektor
+p1315
+V0.53539
+p1316
+sVco-founder
+p1317
+V0.554043
+p1318
+sVlarger projects
+p1319
+V0.723686
+p1320
+sVtight spots
+p1321
+V0.79503
+p1322
+sVactive real estate
+p1323
+V0.904567
+p1324
+sVstrategic direction
+p1325
+V0.742319
+p1326
+sVjason rubin
+p1327
+V0.75962
+p1328
+sVhome box office
+p1329
+V0.915388
+p1330
+sVstrategic buyers
+p1331
+V0.740957
+p1332
+sVstartup monkey gods
+p1333
+V0.951001
+p1334
+sVign
+p1335
+V0.534964
+p1336
+sVstrategist
+p1337
+V0.563132
+p1338
+sVreal estate properties
+p1339
+V0.898679
+p1340
+sVsubscription television business
+p1341
+V0.914307
+p1342
+sVchief strategy officer
+p1343
+V0.94673
+p1344
+sVnews corporation
+p1345
+V0.725639
+p1346
+sVcompany
+p1347
+V0.559424
+p1348
+sVlongtime business partner
+p1349
+V0.967591
+p1350
+sVhbo lab
+p1351
+V0.736596
+p1352
+sVgame
+p1353
+V0.535572
+p1354
+sVscour
+p1355
+V0.56647
+p1356
+sVadvisor
+p1357
+V0.607203
+p1358
+sVworld
+p1359
+V0.534539
+p1360
+sVnew ventures
+p1361
+V0.766876
+p1362
+sVexecution
+p1363
+V0.545754
+p1364
+sVtime warner
+p1365
+V0.728932
+p1366
+sVsquare feet
+p1367
+V0.717148
+p1368
+sVroles
+p1369
+V0.539334
+p1370
+sVmultiple buyers
+p1371
+V0.765491
+p1372
+sVauction
+p1373
+V0.536645
+p1374
+sVthqi
+p1375
+V0.537224
+p1376
+sVnasdaq
+p1377
+V0.537286
+p1378
+sVthq
+p1379
+V0.589308
+p1380
+sVcareer
+p1381
+V0.53372
+p1382
+sVactivision
+p1383
+V0.566294
+p1384
+sVinc.
+p1385
+V0.537327
+p1386
+sVcolumbia house
+p1387
+V0.714655
+p1388
+ssg114
+S'http://www.crunchbase.com/person/jason-kay/primary-image/raw'
+p1389
+sa(dp1390
+g2
+S'Evan'
+p1391
+sg4
+S'Williams'
+p1392
+sg6
+S'http://twitter.com/ev'
+p1393
+sg8
+S'http://www.facebook.com/evhead'
+p1394
+sg10
+S'http://www.linkedin.com/in/evanwilliams'
+p1395
+sg12
+(dp1396
+Vgoogle
+p1397
+V0.212075
+p1398
+sVworld economic forum
+p1399
+V0.871736
+p1400
+sVyoung global leader
+p1401
+V0.893847
+p1402
+sVceo
+p1403
+V0.445078
+p1404
+sVnew publishing platform
+p1405
+V0.966053
+p1406
+sVamerican entrepreneur
+p1407
+V0.706992
+p1408
+sVevan williams
+p1409
+V0.801226
+p1410
+sVwife
+p1411
+V0.202485
+p1412
+sVrural nebraska
+p1413
+V0.559922
+p1414
+sVentrepreneurs
+p1415
+V0.210212
+p1416
+sVsan francisco
+p1417
+V0.539961
+p1418
+sVbiggest services
+p1419
+V0.68436
+p1420
+sVtwitter
+p1421
+V0.260474
+p1422
+sVdecade
+p1423
+V0.22127
+p1424
+ssg114
+S'http://www.crunchbase.com/person/evan-williams/primary-image/raw'
+p1425
+sa(dp1426
+g2
+S'Garrett'
+p1427
+sg4
+S'Camp'
+p1428
+sg6
+S'http://twitter.com/gmc'
+p1429
+sg8
+S'http://www.facebook.com/garrettcamp'
+p1430
+sg10
+S'http://www.linkedin.com/in/garrettcamp'
+p1431
+sg12
+(dp1432
+Vuber
+p1433
+V0.368704
+p1434
+sVventure capital
+p1435
+V0.557892
+p1436
+sVactive companies
+p1437
+V0.570668
+p1438
+sVuber.com
+p1439
+V0.344751
+p1440
+sVfounder
+p1441
+V0.350895
+p1442
+sVcollaborative systems
+p1443
+V0.553901
+p1444
+sVinformation retrieval
+p1445
+V0.557671
+p1446
+sVgoogle ventures
+p1447
+V0.564197
+p1448
+sVplatforms
+p1449
+V0.3453
+p1450
+sVlargest discovery engine
+p1451
+V0.767478
+p1452
+sV30m
+p1453
+V0.382436
+p1454
+sVadvertisers
+p1455
+V0.355279
+p1456
+sVtechniques
+p1457
+V0.349617
+p1458
+sVmarketplaces
+p1459
+V0.368303
+p1460
+sVon-demand car service
+p1461
+V0.979784
+p1462
+sVgarrett
+p1463
+V0.793753
+p1464
+sVmembers
+p1465
+V0.342511
+p1466
+sVplatform
+p1467
+V0.346405
+p1468
+sVsuccessful companies
+p1469
+V0.594001
+p1470
+sVmit technology review
+p1471
+V0.763558
+p1472
+sVfounders
+p1473
+V0.438081
+p1474
+sVconsumer services
+p1475
+V0.602716
+p1476
+sVdevelopment
+p1477
+V0.342655
+p1478
+sVstumbleupon.com
+p1479
+V0.342737
+p1480
+sVjeff bezos
+p1481
+V0.610907
+p1482
+sVceo
+p1483
+V0.353882
+p1484
+sVstartup studio
+p1485
+V0.643227
+p1486
+sVefficiency
+p1487
+V0.34444
+p1488
+sVchance
+p1489
+V0.349142
+p1490
+sVnew products
+p1491
+V0.60688
+p1492
+sVinception
+p1493
+V0.360101
+p1494
+sVtravis kalanick
+p1495
+V0.578185
+p1496
+sVcities
+p1497
+V0.343355
+p1498
+sVrecipient
+p1499
+V0.354769
+p1500
+sVcalgary
+p1501
+V0.342492
+p1502
+sVevolutionary algorithms
+p1503
+V0.551447
+p1504
+sVstumbleupon
+p1505
+V0.486438
+p1506
+sVmasters
+p1507
+V0.34266
+p1508
+sVexpa team
+p1509
+V0.597649
+p1510
+sVsoftware engineering
+p1511
+V0.558715
+p1512
+sVtpg capital
+p1513
+V0.588924
+p1514
+sVuniversity
+p1515
+V0.342534
+p1516
+sVexperience
+p1517
+V0.346533
+p1518
+sVgoldman sachs
+p1519
+V0.598015
+p1520
+sVmobile applications
+p1521
+V0.57538
+p1522
+sVtime
+p1523
+V0.345448
+p1524
+ssg114
+S'http://www.crunchbase.com/person/garrett-camp/primary-image/raw'
+p1525
+sa(dp1526
+g2
+S'Geoff'
+p1527
+sg4
+S'Smith'
+p1528
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/geoffreysmith'
+p1529
+sg12
+(dp1530
+Vtrade union movement
+p1531
+V0.730751
+p1532
+sVconsultancy business
+p1533
+V0.637431
+p1534
+sVgreat places
+p1535
+V0.633056
+p1536
+sVmba programmes
+p1537
+V0.616743
+p1538
+sVsmall business meetings
+p1539
+V0.737872
+p1540
+sVhuman resources
+p1541
+V0.616288
+p1542
+sVstaff safety
+p1543
+V0.616383
+p1544
+sVgeneral manager
+p1545
+V0.620528
+p1546
+sVfranklin geoff
+p1547
+V0.808524
+p1548
+sVnational moderator
+p1549
+V0.628783
+p1550
+sVrecruitment strategy
+p1551
+V0.633437
+p1552
+sVwaiuku nz
+p1553
+V0.634735
+p1554
+sVorganisation development leadership
+p1555
+V0.80623
+p1556
+sVmotor vehicle assembly
+p1557
+V0.729673
+p1558
+sVbusiness culture
+p1559
+V0.630869
+p1560
+sVprimary produce
+p1561
+V0.613682
+p1562
+sVstrategic remuneration
+p1563
+V0.632883
+p1564
+sVhigh performance organisations
+p1565
+V0.779107
+p1566
+sVfranklin district
+p1567
+V0.628832
+p1568
+sVteamwork competencies
+p1569
+V0.616792
+p1570
+sVsocial services
+p1571
+V0.620894
+p1572
+sVsouth auckland health
+p1573
+V0.728006
+p1574
+sVfood processing
+p1575
+V0.624759
+p1576
+sVpublic library
+p1577
+V0.621332
+p1578
+sVexecutive committee
+p1579
+V0.619939
+p1580
+sVe-performance management
+p1581
+V0.624315
+p1582
+sVindustry training board
+p1583
+V0.746688
+p1584
+sVsmall business development
+p1585
+V0.751252
+p1586
+sVearly leaders
+p1587
+V0.618701
+p1588
+sVpositive working cultures
+p1589
+V0.719655
+p1590
+sVcustomer service
+p1591
+V0.620245
+p1592
+sVpublic health
+p1593
+V0.645893
+p1594
+sVprivate health providers
+p1595
+V0.715624
+p1596
+sVleadership development
+p1597
+V0.679223
+p1598
+sVhigh turnover consumer
+p1599
+V0.742003
+p1600
+sVexport industry
+p1601
+V0.619184
+p1602
+sVprofessional services
+p1603
+V0.621904
+p1604
+sVgeoff chairs conferences
+p1605
+V0.91517
+p1606
+sVconsultant geoff
+p1607
+V0.804518
+p1608
+sVfinancial services
+p1609
+V0.621635
+p1610
+sVagricultural produce organisations
+p1611
+V0.727793
+p1612
+sVunion president
+p1613
+V0.619629
+p1614
+sVmanager review
+p1615
+V0.618603
+p1616
+sVmanaging people performance
+p1617
+V0.736739
+p1618
+sVexecutive management
+p1619
+V0.651447
+p1620
+sVparallel career
+p1621
+V0.616648
+p1622
+sVindustry training qualifications
+p1623
+V0.740989
+p1624
+sVnorthern clinical training
+p1625
+V0.723475
+p1626
+sVenterprise franklin development
+p1627
+V0.737696
+p1628
+sVregion economic development
+p1629
+V0.71884
+p1630
+ssg114
+S'http://www.crunchbase.com/person/geoff-smith/primary-image/raw'
+p1631
+sa(dp1632
+g2
+S'Jack'
+p1633
+sg4
+S'Dorsey'
+p1634
+sg6
+S'http://twitter.com/jack'
+p1635
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/jackdorseysquare'
+p1636
+sg12
+(dp1637
+Vsquare
+p1638
+V0.387896
+p1639
+sVpeople
+p1640
+V0.411814
+p1641
+sVtwitter
+p1642
+V0.556573
+p1643
+sVconstrained simplification
+p1644
+V0.810271
+p1645
+sVmass-transit
+p1646
+V0.3697
+p1647
+sVoutstanding innovator
+p1648
+V0.769609
+p1649
+sVco-founder
+p1650
+V0.558776
+p1651
+sVmillions
+p1652
+V0.400457
+p1653
+sVcities
+p1654
+V0.369524
+p1655
+sVcreator
+p1656
+V0.39111
+p1657
+sVchairman
+p1658
+V0.426367
+p1659
+sVthousands
+p1660
+V0.37892
+p1661
+sVmit
+p1662
+V0.381269
+p1663
+sVreal-time messaging systems
+p1664
+V0.968947
+p1665
+sVjack dorsey
+p1666
+V0.805069
+p1667
+sVceo
+p1668
+V0.419476
+p1669
+sVearly fascination
+p1670
+V0.770253
+p1671
+sVtechnology review
+p1672
+V0.679946
+p1673
+sVemergency vehicles
+p1674
+V0.707983
+p1675
+sVst. louis
+p1676
+V0.717738
+p1677
+sVgeneral usage
+p1678
+V0.698642
+p1679
+sVtime magazine
+p1680
+V0.687948
+p1681
+sVwork
+p1682
+V0.366487
+p1683
+sVmanhattan
+p1684
+V0.385911
+p1685
+sVcouriers
+p1686
+V0.424837
+p1687
+sVtaxis
+p1688
+V0.440587
+p1689
+ssg114
+S'http://www.crunchbase.com/person/jack-dorsey/primary-image/raw'
+p1690
+sa(dp1691
+g2
+S'Jason'
+p1692
+sg4
+S'Goldman'
+p1693
+sg6
+S'http://twitter.com/goldman'
+p1694
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/goldtoe'
+p1695
+sg12
+(dp1696
+Vstartup team
+p1697
+V0.769959
+p1698
+sVgoogle
+p1699
+V0.553037
+p1700
+sVtwitter
+p1701
+V0.670076
+p1702
+sVvp
+p1703
+V0.496423
+p1704
+sVobvious
+p1705
+V0.571283
+p1706
+sVhalf
+p1707
+V0.476326
+p1708
+sVproduct strategy
+p1709
+V0.675168
+p1710
+sVblogger project
+p1711
+V0.854581
+p1712
+sVjason goldman
+p1713
+V0.918096
+p1714
+ssg114
+S'http://www.crunchbase.com/person/jason-goldman/primary-image/raw'
+p1715
+sa(dp1716
+g2
+S'Biz'
+p1717
+sg4
+S'Stone'
+p1718
+sg6
+S'http://twitter.com/biz'
+p1719
+sg8
+g119
+sg10
+S'http://www.linkedin.com/company/2805451'
+p1720
+sg12
+(dp1721
+Vpast decade
+p1722
+V0.327034
+p1723
+sVmedia services xanga
+p1724
+V0.658515
+p1725
+sVsilicon valley headquarters
+p1726
+V0.557166
+p1727
+sVservice xanga
+p1728
+V0.442215
+p1729
+sVbiz stone
+p1730
+V0.760103
+p1731
+sVnon-profit organization justgive.org
+p1732
+V0.548958
+p1733
+sVsaÔd business school
+p1734
+V0.530853
+p1735
+sVsenior role
+p1736
+V0.347039
+p1737
+sVone-to-many network
+p1738
+V0.416287
+p1739
+sVanswer community fluther.com
+p1740
+V0.508712
+p1741
+sVannual master class
+p1742
+V0.532127
+p1743
+sVbiz
+p1744
+V0.917226
+p1745
+sVtravel service trazzler.com
+p1746
+V0.515211
+p1747
+sVreid hoffman
+p1748
+V0.340882
+p1749
+sVsocial significance
+p1750
+V0.349551
+p1751
+sVoxford union
+p1752
+V0.327423
+p1753
+sVcontent encouragement service
+p1754
+V0.518097
+p1755
+sVblogger.com team
+p1756
+V0.390819
+p1757
+sVstartup world
+p1758
+V0.347068
+p1759
+ssg114
+S'http://www.crunchbase.com/person/biz-stone/primary-image/raw'
+p1760
+sa(dp1761
+g2
+S'Eldad'
+p1762
+sg4
+S'Ben Tora'
+p1763
+sg6
+S'http://twitter.com/eldadben'
+p1764
+sg8
+S'http://www.facebook.com/eldadbentora'
+p1765
+sg10
+S'http://www.linkedin.com/in/eldadbentora'
+p1766
+sg12
+(dp1767
+Vbluesnap
+p1768
+V0.443118
+p1769
+sVcustomers
+p1770
+V0.445123
+p1771
+sVproduct concept
+p1772
+V0.738043
+p1773
+sVrevenue
+p1774
+V0.511734
+p1775
+sVconversion
+p1776
+V0.444875
+p1777
+sVexperience
+p1778
+V0.450326
+p1779
+sVex gm
+p1780
+V0.853451
+p1781
+sVonline services
+p1782
+V0.741878
+p1783
+sVchief product
+p1784
+V0.794162
+p1785
+sVentrepreneurial-oriented executive
+p1786
+V0.748294
+p1787
+sVco-founder
+p1788
+V0.528359
+p1789
+sVusability
+p1790
+V0.51014
+p1791
+ssg114
+S'http://www.crunchbase.com/person/eldad-ben-tora/primary-image/raw'
+p1792
+sa(dp1793
+g2
+S'Barry'
+p1794
+sg4
+S'Brott'
+p1795
+sg6
+S'http://twitter.com/barrybrott'
+p1796
+sg8
+g119
+sg10
+S'http://au.linkedin.com/in/barrybrott'
+p1797
+sg12
+(dp1798
+Vmerrill lynch
+p1799
+V0.551386
+p1800
+sVmyob limited
+p1801
+V0.521661
+p1802
+sVventure portfolio
+p1803
+V0.522437
+p1804
+sVcorporate finance
+p1805
+V0.461491
+p1806
+sVadvisory positions
+p1807
+V0.487306
+p1808
+sVbarry
+p1809
+V0.647471
+p1810
+sVmelbourne-based family office
+p1811
+V0.910503
+p1812
+sVasx
+p1813
+V0.226407
+p1814
+sVcorporate roles
+p1815
+V0.486795
+p1816
+sVcorporate development
+p1817
+V0.66473
+p1818
+sVtax divisions
+p1819
+V0.48706
+p1820
+sVjagen pty
+p1821
+V0.492643
+p1822
+sVkpmg
+p1823
+V0.223944
+p1824
+sVsoftware company
+p1825
+V0.473106
+p1826
+sVvillage roadshow limited
+p1827
+V0.8249
+p1828
+sVprincipals
+p1829
+V0.220516
+p1830
+sVsquare peg capital
+p1831
+V0.997604
+p1832
+ssg114
+S'http://www.crunchbase.com/person/barry-brott/primary-image/raw'
+p1833
+sa(dp1834
+g2
+S'Jim'
+p1835
+sg4
+S'Cady'
+p1836
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/jim-cady/0/278/65'
+p1837
+sg12
+(dp1838
+Vwindowsphone
+p1839
+V0.352812
+p1840
+sVharman audio
+p1841
+V0.66616
+p1842
+sVbusiness model
+p1843
+V0.796445
+p1844
+sVsonos
+p1845
+V0.423342
+p1846
+sVcommunity
+p1847
+V0.354121
+p1848
+sVpersonal radio brand
+p1849
+V0.967599
+p1850
+sVford sync
+p1851
+V0.647872
+p1852
+sVnew category
+p1853
+V0.66607
+p1854
+sVdirect hardware sales
+p1855
+V0.85962
+p1856
+sVmillions
+p1857
+V0.383883
+p1858
+sVcanada
+p1859
+V0.35356
+p1860
+sVweb
+p1861
+V0.386667
+p1862
+sVjim
+p1863
+V0.392991
+p1864
+sVblu-radio
+p1865
+V0.352298
+p1866
+sVradio service
+p1867
+V0.644185
+p1868
+sVvehicle
+p1869
+V0.35183
+p1870
+sVtens
+p1871
+V0.402798
+p1872
+sVandroid
+p1873
+V0.394876
+p1874
+sVpartner integration
+p1875
+V0.610582
+p1876
+sVsubscriptions
+p1877
+V0.369441
+p1878
+sVlogitech
+p1879
+V0.410701
+p1880
+sVad-funded free services
+p1881
+V0.861701
+p1882
+sVtiers
+p1883
+V0.395436
+p1884
+sVvaried platforms
+p1885
+V0.690004
+p1886
+sVdedicated listeners
+p1887
+V0.665463
+p1888
+sVblackberry
+p1889
+V0.385585
+p1890
+sVslacker
+p1891
+V0.660595
+p1892
+ssg114
+S'http://www.crunchbase.com/person/jim-cady/primary-image/raw'
+p1893
+sa(dp1894
+g2
+S'Jonathan'
+p1895
+sg4
+S'Sasse'
+p1896
+sg6
+g119
+sg8
+S'http://www.facebook.com/thejsasse'
+p1897
+sg10
+S'http://www.linkedin.com/in/sasse'
+p1898
+sg12
+(dp1899
+Vcontributors
+p1900
+V0.319868
+p1901
+sVtownsend street
+p1902
+V0.400138
+p1903
+sVtwitter
+p1904
+V0.357278
+p1905
+sVradioscape
+p1906
+V0.319686
+p1907
+sVbusiness graph
+p1908
+V0.395756
+p1909
+sVlinkedin
+p1910
+V0.379237
+p1911
+sVcrunchbase
+p1912
+V0.333019
+p1913
+sVgoogle plus
+p1914
+V0.525371
+p1915
+sVsan francisco
+p1916
+V0.399171
+p1917
+sVchief financial officer
+p1918
+V0.502687
+p1919
+sVwebpresence
+p1920
+V0.336755
+p1921
+sVeducation
+p1922
+V0.339233
+p1923
+sVfeb
+p1924
+V0.320908
+p1925
+sVtitle
+p1926
+V0.31939
+p1927
+sVnew horizons entertainment
+p1928
+V0.939887
+p1929
+sVlargest business
+p1930
+V0.398167
+p1931
+sVjan
+p1932
+V0.388946
+p1933
+sVprimary role
+p1934
+V0.422196
+p1935
+sVperson details
+p1936
+V0.41038
+p1937
+sVoregon state university
+p1938
+V0.684919
+p1939
+sVexecutive consultant
+p1940
+V0.41563
+p1941
+sVcorvallis
+p1942
+V0.349477
+p1943
+sVemail
+p1944
+V0.340164
+p1945
+sVmultiple organizations
+p1946
+V0.415395
+p1947
+sVlocation
+p1948
+V0.320471
+p1949
+sVprofile
+p1950
+V0.319814
+p1951
+sVjobs
+p1952
+V0.319953
+p1953
+sVceo
+p1954
+V0.320523
+p1955
+sVsvp product marketing
+p1956
+V0.526918
+p1957
+sVcompany
+p1958
+V0.319359
+p1959
+sVequitynet
+p1960
+V0.359295
+p1961
+sVjun
+p1962
+V0.32218
+p1963
+sVdirector
+p1964
+V0.38411
+p1965
+sVfacebook
+p1966
+V0.360676
+p1967
+sVshare
+p1968
+V0.340518
+p1969
+sVproduct line manager
+p1970
+V0.490437
+p1971
+sVrelease notes
+p1972
+V0.404615
+p1973
+sVadvisor roles
+p1974
+V0.401619
+p1975
+sVcontent programming
+p1976
+V0.405126
+p1977
+sVinfo
+p1978
+V0.321965
+p1979
+sViriver america
+p1980
+V0.422463
+p1981
+sVjonathan sasse
+p1982
+V0.599944
+p1983
+sVsite map
+p1984
+V0.405596
+p1985
+sVequity crowdfunding
+p1986
+V0.396232
+p1987
+sVdiamond multimedia
+p1988
+V0.406551
+p1989
+sVsvp marketing
+p1990
+V0.441511
+p1991
+sVsonicblue
+p1992
+V0.318653
+p1993
+sVslacker
+p1994
+V0.355945
+p1995
+sVmale
+p1996
+V0.320503
+p1997
+sVproduct team lead
+p1998
+V0.488768
+p1999
+ssg114
+S'http://www.crunchbase.com/person/jonathan-sasse/primary-image/raw'
+p2000
+sa(dp2001
+g2
+S'Trip'
+p2002
+sg4
+S'Adler'
+p2003
+sg6
+S'http://twitter.com/tripadler'
+p2004
+sg8
+S'http://www.facebook.com/tripadler'
+p2005
+sg10
+S'http://www.linkedin.com/pub/trip-adler/4/67/237'
+p2006
+sg12
+(dp2007
+Vpeople
+p2008
+V0.485125
+p2009
+sVself-publishing tools
+p2010
+V0.694497
+p2011
+sVscribd
+p2012
+V0.752492
+p2013
+sVco-founder
+p2014
+V0.48142
+p2015
+sVmillions
+p2016
+V0.469711
+p2017
+sVweb
+p2018
+V0.446435
+p2019
+sVreaders
+p2020
+V0.454126
+p2021
+sVsimple observation
+p2022
+V0.668412
+p2023
+sVlargest social publishing
+p2024
+V0.939045
+p2025
+sVreading site
+p2026
+V0.695909
+p2027
+sVproduct
+p2028
+V0.449836
+p2029
+sVproliferation
+p2030
+V0.482055
+p2031
+sVco-founders
+p2032
+V0.491661
+p2033
+sVceo
+p2034
+V0.480266
+p2035
+sVworld
+p2036
+V0.454402
+p2037
+sVorganizations
+p2038
+V0.446277
+p2039
+sVword
+p2040
+V0.446533
+p2041
+sVreadership
+p2042
+V0.483998
+p2043
+sVblogs
+p2044
+V0.456478
+p2045
+sVeasy way
+p2046
+V0.663455
+p2047
+sVmobile devices
+p2048
+V0.651267
+p2049
+sVtrip adler
+p2050
+V0.806121
+p2051
+sVvision
+p2052
+V0.446788
+p2053
+ssg114
+S'http://www.crunchbase.com/person/john-adler/primary-image/raw'
+p2054
+sa(dp2055
+g2
+S'Jared'
+p2056
+sg4
+S'Friedman'
+p2057
+sg6
+S'http://twitter.com/snowmaker'
+p2058
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/jaredfriedman'
+p2059
+sg12
+(dp2060
+Vcombinator-backed startup
+p2061
+V0.774322
+p2062
+sVcustomizable search software
+p2063
+V0.965566
+p2064
+sVapps
+p2065
+V0.437754
+p2066
+sVwebsites
+p2067
+V0.262471
+p2068
+ssg114
+S'http://www.crunchbase.com/person/jared-friedman/primary-image/raw'
+p2069
+sa(dp2070
+g2
+S'Tikhon'
+p2071
+sg4
+S'Bernstam'
+p2072
+sg6
+S'http://twitter.com/tikhon'
+p2073
+sg8
+S'http://www.facebook.com/tikhon'
+p2074
+sg10
+g119
+sg12
+(dp2075
+Vtownsend street
+p2076
+V0.57334
+p2077
+sVtwitter
+p2078
+V0.563146
+p2079
+sVpast event appearances
+p2080
+V0.637341
+p2081
+sVbusiness graph
+p2082
+V0.571817
+p2083
+sVlinkedin
+p2084
+V0.550402
+p2085
+sVparse
+p2086
+V0.56216
+p2087
+sVfashion discovery platform
+p2088
+V0.648434
+p2089
+sVtikhon bernstam
+p2090
+V0.918423
+p2091
+sVcustomizable search software
+p2092
+V0.642572
+p2093
+sVgoogle plus
+p2094
+V0.667948
+p2095
+sVopen source instagram
+p2096
+V0.638452
+p2097
+sVsan francisco
+p2098
+V0.57437
+p2099
+sVrolepoint
+p2100
+V0.5255
+p2101
+sVscribd
+p2102
+V0.551831
+p2103
+sVwebpresence
+p2104
+V0.529363
+p2105
+sVrelational power
+p2106
+V0.576009
+p2107
+sVaug
+p2108
+V0.532885
+p2109
+sVtwenty-something†women
+p2110
+V0.577907
+p2111
+sVamerican entrepreneur
+p2112
+V0.586729
+p2113
+sVway talent
+p2114
+V0.575554
+p2115
+sVjan
+p2116
+V0.527492
+p2117
+sVapr
+p2118
+V0.534873
+p2119
+sVperson details
+p2120
+V0.583934
+p2121
+sVreal-time data
+p2122
+V0.576596
+p2123
+sVstate ist start-up
+p2124
+V0.807796
+p2125
+sVtweets
+p2126
+V0.518929
+p2127
+sVcheckr
+p2128
+V0.526624
+p2129
+sVemail
+p2130
+V0.527037
+p2131
+sVshare
+p2132
+V0.531579
+p2133
+sVpenn state ist
+p2134
+V0.804829
+p2135
+sVfacebook
+p2136
+V0.539528
+p2137
+sVtalent acquisition
+p2138
+V0.573469
+p2139
+sVle tote
+p2140
+V0.582128
+p2141
+sVrelease notes
+p2142
+V0.578904
+p2143
+sVcitus data
+p2144
+V0.651451
+p2145
+sVcombinator-backed startup
+p2146
+V0.579158
+p2147
+sVadvisor roles
+p2148
+V0.571947
+p2149
+sVinfo
+p2150
+V0.517005
+p2151
+sVinbox size
+p2152
+V0.587641
+p2153
+sVsite map
+p2154
+V0.579438
+p2155
+sVcompanies
+p2156
+V0.531121
+p2157
+sVcrunchbase
+p2158
+V0.526699
+p2159
+sVinvestments
+p2160
+V0.57082
+p2161
+sVrental model
+p2162
+V0.580891
+p2163
+sVseed
+p2164
+V0.629872
+p2165
+sVevent appearances
+p2166
+V0.691975
+p2167
+sVclose friends
+p2168
+V0.580365
+p2169
+sVprofessional background checks
+p2170
+V0.647282
+p2171
+sVnamo media
+p2172
+V0.655463
+p2173
+sVinterruptive ad formats
+p2174
+V0.641845
+p2175
+ssg114
+S'http://www.crunchbase.com/person/tikhon-bernstam/primary-image/raw'
+p2176
+sa(dp2177
+g2
+S'Sky'
+p2178
+sg4
+S'Dayton'
+p2179
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/profile/view?id=51599'
+p2180
+sg12
+(dp2181
+Vlowermybills
+p2182
+V0.435085
+p2183
+sVcnbc
+p2184
+V0.452175
+p2185
+sVpopular coffeehouse
+p2186
+V0.616642
+p2187
+sVbusiness.com
+p2188
+V0.455613
+p2189
+sVrh donnelly
+p2190
+V0.636704
+p2191
+sVentrepreneur
+p2192
+V0.439036
+p2193
+sVcollege
+p2194
+V0.433489
+p2195
+sVharvard university
+p2196
+V0.593064
+p2197
+sVsouthern california
+p2198
+V0.594892
+p2199
+sVboingo wireless
+p2200
+V0.958227
+p2201
+sVtechnology
+p2202
+V0.4334
+p2203
+sVpublic leadership
+p2204
+V0.598269
+p2205
+sVinternet revolution
+p2206
+V0.619002
+p2207
+sVavid surfer
+p2208
+V0.611317
+p2209
+sVpublic spaces
+p2210
+V0.635738
+p2211
+sVhelio
+p2212
+V0.450492
+p2213
+sVexperian
+p2214
+V0.455881
+p2215
+sVgovernment
+p2216
+V0.433039
+p2217
+sVsky
+p2218
+V0.753831
+p2219
+sVchildren
+p2220
+V0.432472
+p2221
+sVvirgin mobile usa
+p2222
+V0.778689
+p2223
+sVchairman
+p2224
+V0.497385
+p2225
+sVdelphian school
+p2226
+V0.625558
+p2227
+sVmillions
+p2228
+V0.440474
+p2229
+sVelectronic arts
+p2230
+V0.613597
+p2231
+sVinterests
+p2232
+V0.433444
+p2233
+sVaggregate market value
+p2234
+V0.801426
+p2235
+sVbusiness
+p2236
+V0.465888
+p2237
+sVhomes
+p2238
+V0.439965
+p2239
+sVoregon
+p2240
+V0.433566
+p2241
+sVwest hollywood
+p2242
+V0.606358
+p2243
+sVjamdat mobile
+p2244
+V0.610708
+p2245
+sVwall street journal
+p2246
+V0.757903
+p2247
+sVentertainment industry
+p2248
+V0.606898
+p2249
+sVwi-fi
+p2250
+V0.450545
+p2251
+sVgraphics boutique catering
+p2252
+V0.774132
+p2253
+sVfragmented networks
+p2254
+V0.658043
+p2255
+sVcenter
+p2256
+V0.433163
+p2257
+sVnovelist arwen elys
+p2258
+V0.776223
+p2259
+sVjohn f. kennedy
+p2260
+V0.766281
+p2261
+sVcompanies
+p2262
+V0.474734
+p2263
+sVforbes
+p2264
+V0.437587
+p2265
+sVnumerous awards
+p2266
+V0.603067
+p2267
+sVoffices
+p2268
+V0.43994
+p2269
+sVneopets
+p2270
+V0.442126
+p2271
+sVviacom
+p2272
+V0.464089
+p2273
+sVeveryday lives
+p2274
+V0.633879
+p2275
+sVadvisory board
+p2276
+V0.601716
+p2277
+sVage
+p2278
+V0.437171
+p2279
+ssg114
+S'http://www.crunchbase.com/person/sky-dayton/primary-image/raw'
+p2280
+sa(dp2281
+g2
+S'Kieran'
+p2282
+sg4
+S'Hannon'
+p2283
+sg6
+S'http://twitter.com/kieranhannon'
+p2284
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/kieran-hannon/1/130/b30'
+p2285
+sg12
+(dp2286
+Vinfluential cmos
+p2287
+V0.469164
+p2288
+sVkieran
+p2289
+V0.806218
+p2290
+sVbelkin team
+p2291
+V0.810519
+p2292
+sVadvertising agency executive
+p2293
+V0.603801
+p2294
+sVbelkin
+p2295
+V0.918768
+p2296
+sVnational retail federation
+p2297
+V0.607497
+p2298
+sVvice president
+p2299
+V0.660688
+p2300
+sVtwitter
+p2301
+V0.331243
+p2302
+sVradioshack corporation
+p2303
+V0.492036
+p2304
+sVbest integrated holiday
+p2305
+V0.6091
+p2306
+sVcanon communications
+p2307
+V0.469477
+p2308
+sVbelkin international
+p2309
+V0.853769
+p2310
+sVubm\u2019s acquisition
+p2311
+V0.487518
+p2312
+sVsan francisco office
+p2313
+V0.600219
+p2314
+sVirish companies
+p2315
+V0.460715
+p2316
+sVthings
+p2317
+V0.330374
+p2318
+sVbelkin\u2019s passion
+p2319
+V0.804574
+p2320
+sVwemo
+p2321
+V0.330952
+p2322
+sVchief marketing officer
+p2323
+V0.670928
+p2324
+sVmember
+p2325
+V0.342578
+p2326
+sVbest consumer experience
+p2327
+V0.624247
+p2328
+sViot innovations
+p2329
+V0.529054
+p2330
+sVinternet
+p2331
+V0.330393
+p2332
+sVgrey global group
+p2333
+V0.606421
+p2334
+sVdecades
+p2335
+V0.329671
+p2336
+sVgovernment agency
+p2337
+V0.460023
+p2338
+sVperforming agencies
+p2339
+V0.461402
+p2340
+sVdublin institute
+p2341
+V0.463482
+p2342
+sVmarketing organization
+p2343
+V0.516101
+p2344
+sVdelightful user experiences
+p2345
+V0.6422
+p2346
+sVgrey worldwide
+p2347
+V0.471419
+p2348
+sVfast company
+p2349
+V0.49997
+p2350
+sVbrand
+p2351
+V0.328151
+p2352
+sVgold award
+p2353
+V0.466939
+p2354
+sVkieran hannon
+p2355
+V0.784369
+p2356
+sVtechnology advisory board
+p2357
+V0.6051
+p2358
+sVmanagement team
+p2359
+V0.458645
+p2360
+sVretail sectors
+p2361
+V0.480333
+p2362
+sVlinksys
+p2363
+V0.352141
+p2364
+sVenterprise ireland
+p2365
+V0.464907
+p2366
+sVsuccesses
+p2367
+V0.333276
+p2368
+sVmarketing campaign
+p2369
+V0.486436
+p2370
+sVfacets
+p2371
+V0.334724
+p2372
+sVinnovative companies
+p2373
+V0.493649
+p2374
+sVpeople-centric approach
+p2375
+V0.48071
+p2376
+sVcivil engineering
+p2377
+V0.461474
+p2378
+sVirish technology leadership
+p2379
+V0.603535
+p2380
+sVforbes
+p2381
+V0.33015
+p2382
+sVconsumer electronic sectors
+p2383
+V0.633523
+p2384
+ssg114
+S'http://www.crunchbase.com/person/kieran-hannon/primary-image/raw'
+p2385
+sa(dp2386
+g2
+S'Meg'
+p2387
+sg4
+S'Whitman'
+p2388
+sg6
+S'http://twitter.com/MegWhitman'
+p2389
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/megwhitman'
+p2390
+sg12
+(dp2391
+Vpowerful business managers
+p2392
+V0.635693
+p2393
+sVboard chairman
+p2394
+V0.494931
+p2395
+sVbusiness administration
+p2396
+V0.486725
+p2397
+sVpeople
+p2398
+V0.328711
+p2399
+sVperkins
+p2400
+V0.33301
+p2401
+sVcaulfield
+p2402
+V0.34155
+p2403
+sVlegislative candidates
+p2404
+V0.466051
+p2405
+sVprivate equity firm
+p2406
+V0.648297
+p2407
+sVgolden state
+p2408
+V0.469022
+p2409
+sVgovernor mitt romney
+p2410
+V0.660315
+p2411
+sVstory
+p2412
+V0.329549
+p2413
+sVnetwork
+p2414
+V0.330012
+p2415
+sVstride rite corporation
+p2416
+V0.64116
+p2417
+sVunparalleled business success
+p2418
+V0.669662
+p2419
+sVvarious leadership positions
+p2420
+V0.626792
+p2421
+sVsenator john mccain
+p2422
+V0.624201
+p2423
+sVbain
+p2424
+V0.338139
+p2425
+sVrevenue
+p2426
+V0.363411
+p2427
+sVhp
+p2428
+V0.330331
+p2429
+sVmember
+p2430
+V0.333526
+p2431
+sVkleiner
+p2432
+V0.34937
+p2433
+sVpart-time strategic advisor
+p2434
+V0.656145
+p2435
+sVharvard business school
+p2436
+V0.62344
+p2437
+sVmargaret c. whitman
+p2438
+V0.730529
+p2439
+sVvote efforts
+p2440
+V0.464715
+p2441
+sVebay inc.
+p2442
+V0.593837
+p2443
+sVftd
+p2444
+V0.348135
+p2445
+sVmeg
+p2446
+V0.793242
+p2447
+sVpowerful woman
+p2448
+V0.477412
+p2449
+sVusers
+p2450
+V0.329976
+p2451
+sVcompany
+p2452
+V0.358596
+p2453
+sVprinceton university
+p2454
+V0.465284
+p2455
+sVcalifornia republican party
+p2456
+V0.610337
+p2457
+sVwall street journal
+p2458
+V0.6252
+p2459
+sVworld
+p2460
+V0.328746
+p2461
+sVhewlett-packard
+p2462
+V0.341423
+p2463
+sVwomen
+p2464
+V0.356394
+p2465
+sVprocter
+p2466
+V0.34176
+p2467
+sVnational finance co-êchair
+p2468
+V0.610613
+p2469
+sVculture
+p2470
+V0.329645
+p2471
+sVnational co-êchair
+p2472
+V0.465475
+p2473
+sVtime magazine
+p2474
+V0.478213
+p2475
+sVpresidential primary campaign
+p2476
+V0.61347
+p2477
+sVhasbro
+p2478
+V0.336995
+p2479
+sVdirectors
+p2480
+V0.333478
+p2481
+sVgamble
+p2482
+V0.336334
+p2483
+sVtenure
+p2484
+V0.340181
+p2485
+sVbyers
+p2486
+V0.341014
+p2487
+sVchief executive officer
+p2488
+V0.910782
+p2489
+sVemployees
+p2490
+V0.352212
+p2491
+ssg114
+S'http://www.crunchbase.com/person/meg-whitman/primary-image/raw'
+p2492
+sa(dp2493
+g2
+S'Pierre'
+p2494
+sg4
+S'Omidyar'
+p2495
+sg6
+S'https://twitter.com/pierre'
+p2496
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/pierre-omidyar/7b/68/bb1'
+p2497
+sg12
+(dp2498
+Vmarketplace
+p2499
+V0.236242
+p2500
+sVcollaborative approaches
+p2501
+V0.406809
+p2502
+sVexperiment
+p2503
+V0.238025
+p2504
+sVsecondary source
+p2505
+V0.443074
+p2506
+sVlevel playing field
+p2507
+V0.664653
+p2508
+sVpierre
+p2509
+V0.499997
+p2510
+sVworld
+p2511
+V0.236865
+p2512
+sVactivities
+p2513
+V0.235105
+p2514
+sVeffective tool
+p2515
+V0.41999
+p2516
+sVmicro finance initiatives
+p2517
+V0.626921
+p2518
+sVmicro finance sector
+p2519
+V0.624315
+p2520
+sVomidyar foundation
+p2521
+V0.435559
+p2522
+sVglobal scale
+p2523
+V0.415296
+p2524
+sVpam omidyar
+p2525
+V0.439065
+p2526
+sVbetter place
+p2527
+V0.42319
+p2528
+sVpublic company
+p2529
+V0.428425
+p2530
+sVsanta fe institute
+p2531
+V0.578995
+p2532
+sVfor-profit company
+p2533
+V0.434432
+p2534
+sVchairman
+p2535
+V0.241003
+p2536
+sVclaris
+p2537
+V0.257274
+p2538
+sVincome
+p2539
+V0.236973
+p2540
+sVnew entity
+p2541
+V0.42429
+p2542
+sVmicro finance
+p2543
+V0.917061
+p2544
+sVomidyar network
+p2545
+V0.801324
+p2546
+sVcommon ground
+p2547
+V0.44764
+p2548
+sVpeople trust strangers
+p2549
+V0.661162
+p2550
+sVomidyar-tufts micro finance
+p2551
+V0.63805
+p2552
+sVbusiness
+p2553
+V0.236988
+p2554
+sVink development corp.
+p2555
+V0.568627
+p2556
+sVnumber
+p2557
+V0.235744
+p2558
+sVefficiency
+p2559
+V0.237824
+p2560
+sVtransaction
+p2561
+V0.241041
+p2562
+sVtrustee
+p2563
+V0.245709
+p2564
+sVtufts university
+p2565
+V0.491132
+p2566
+sVscope
+p2567
+V0.235713
+p2568
+sVdate
+p2569
+V0.235841
+p2570
+sVflexible tool
+p2571
+V0.420065
+p2572
+sVresponse
+p2573
+V0.236474
+p2574
+sVareas
+p2575
+V0.235719
+p2576
+sVconsumer software engineer
+p2577
+V0.583893
+p2578
+sVendowment gift
+p2579
+V0.414116
+p2580
+sVnonprofits
+p2581
+V0.241985
+p2582
+sVextension
+p2583
+V0.235165
+p2584
+sVwife
+p2585
+V0.235451
+p2586
+sVebay
+p2587
+V0.64677
+p2588
+sVhuman potential
+p2589
+V0.41559
+p2590
+sVeshop
+p2591
+V0.254154
+p2592
+sVpunahou school
+p2593
+V0.432925
+p2594
+sVtime
+p2595
+V0.237161
+p2596
+sVvision
+p2597
+V0.238112
+p2598
+ssg114
+S'http://www.crunchbase.com/person/pierre-omidyar/primary-image/raw'
+p2599
+sa(dp2600
+g2
+S'John'
+p2601
+sg4
+S'Donahoe'
+p2602
+sg6
+S'http://twitter.com/Donahoe_John'
+p2603
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/john-donahoe/52/914/8b5'
+p2604
+sg12
+(dp2605
+Vebay mobile commerce
+p2606
+V0.863583
+p2607
+sVidentical listings
+p2608
+V0.507954
+p2609
+sVrevenue
+p2610
+V0.421092
+p2611
+sVsmall businesses
+p2612
+V0.512239
+p2613
+sVfavorite experience
+p2614
+V0.503465
+p2615
+sVmba
+p2616
+V0.419819
+p2617
+sVbuyer
+p2618
+V0.417603
+p2619
+sVnumber
+p2620
+V0.418165
+p2621
+sVintel corp
+p2622
+V0.502799
+p2623
+sVmobile commerce leader
+p2624
+V0.648706
+p2625
+sVglobal commerce platform
+p2626
+V0.671097
+p2627
+sVcharity component
+p2628
+V0.50378
+p2629
+sVbain
+p2630
+V0.449822
+p2631
+sVpaypal mobile payments
+p2632
+V0.633144
+p2633
+sVmajority
+p2634
+V0.420729
+p2635
+sVshopping.com
+p2636
+V0.433391
+p2637
+sVold cell phone
+p2638
+V0.593608
+p2639
+sVebay enterprise platforms
+p2640
+V0.833473
+p2641
+sVpayments leader
+p2642
+V0.532994
+p2643
+sVrole
+p2644
+V0.418443
+p2645
+sVboston
+p2646
+V0.417596
+p2647
+sVstanford graduate school
+p2648
+V0.586562
+p2649
+sVjohn
+p2650
+V0.548386
+p2651
+sVcore business
+p2652
+V0.50927
+p2653
+sVebay inc.
+p2654
+V0.825377
+p2655
+sVebay giving works
+p2656
+V0.782852
+p2657
+sVdivision
+p2658
+V0.417858
+p2659
+sVelements
+p2660
+V0.418624
+p2661
+sVebay marketplaces
+p2662
+V0.738201
+p2663
+sVceo
+p2664
+V0.453182
+p2665
+sVcompany
+p2666
+V0.53133
+p2667
+sVgumtree
+p2668
+V0.418073
+p2669
+sVcompetitor
+p2670
+V0.420962
+p2671
+sVvolume
+p2672
+V0.433676
+p2673
+sVstrategic acquisitions
+p2674
+V0.509592
+p2675
+sVglobal brands
+p2676
+V0.510091
+p2677
+sVpresident
+p2678
+V0.503771
+p2679
+sVthree-year tenure
+p2680
+V0.521103
+p2681
+sVsellers
+p2682
+V0.418502
+p2683
+sVstubhub
+p2684
+V0.418116
+p2685
+sVworldwide consulting firm
+p2686
+V0.593647
+p2687
+sVdozens
+p2688
+V0.417576
+p2689
+sVclassifieds sites
+p2690
+V0.509446
+p2691
+sVebay
+p2692
+V0.900682
+p2693
+sVdartmouth college
+p2694
+V0.503729
+p2695
+sVglobal ecommerce businesses
+p2696
+V0.601569
+p2697
+sVentrepreneurs
+p2698
+V0.418725
+p2699
+sVrevenues
+p2700
+V0.454401
+p2701
+sVassociate consultant
+p2702
+V0.504244
+p2703
+sVprofits
+p2704
+V0.419673
+p2705
+ssg114
+S'http://www.crunchbase.com/person/john-donahoe/primary-image/raw'
+p2706
+sa(dp2707
+g2
+S'Bob'
+p2708
+sg4
+S'Swan'
+p2709
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/bob-swan/7/aa0/263'
+p2710
+sg12
+(dp2711
+Vexecutive vice president
+p2712
+V0.779871
+p2713
+sVmr. swan
+p2714
+V0.673113
+p2715
+sVvice president
+p2716
+V0.879357
+p2717
+sVnorthrop grumman space
+p2718
+V0.514405
+p2719
+sVsenior vice president
+p2720
+V0.614081
+p2721
+sVchief financial officer
+p2722
+V0.987148
+p2723
+sVelectronic data systems
+p2724
+V0.609687
+p2725
+sVwebvan group inc.
+p2726
+V0.574786
+p2727
+sVcommittee
+p2728
+V0.409935
+p2729
+sVprincipal accounting officer
+p2730
+V0.55634
+p2731
+sVmember
+p2732
+V0.409943
+p2733
+sVtrw inc.
+p2734
+V0.489807
+p2735
+sVmission systems corporation
+p2736
+V0.510112
+p2737
+sVgeneral electric company
+p2738
+V0.499711
+p2739
+sVdata systems llc
+p2740
+V0.514143
+p2741
+sVge lighting llc
+p2742
+V0.511319
+p2743
+sVebay inc.
+p2744
+V0.469324
+p2745
+sVdata systems corp.
+p2746
+V0.51283
+p2747
+sVfinance
+p2748
+V0.433834
+p2749
+sVaeronautical unit.
+p2750
+V0.465774
+p2751
+sVchief operating officer
+p2752
+V0.612913
+p2753
+sVchief executive officer
+p2754
+V0.615208
+p2755
+sVge transportation systems
+p2756
+V0.515756
+p2757
+sVtrw aeronautical systems
+p2758
+V0.547262
+p2759
+sVexecutive positions
+p2760
+V0.458942
+p2761
+sVrobert h. swan
+p2762
+V0.566101
+p2763
+sVhp enterprise services
+p2764
+V0.513188
+p2765
+sVbob
+p2766
+V0.411115
+p2767
+sVge medical systems
+p2768
+V0.511899
+p2769
+ssg114
+g119
+sa(dp2770
+g2
+S'Jeremy'
+p2771
+sg4
+S'LaTrasse'
+p2772
+sg6
+S'http://twitter.com/jeremy'
+p2773
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/jeremylatrasse'
+p2774
+sg12
+(dp2775
+Vcontributors
+p2776
+V0.527368
+p2777
+sVtownsend street
+p2778
+V0.628696
+p2779
+sVseries
+p2780
+V0.523871
+p2781
+sVtwitter
+p2782
+V0.754862
+p2783
+sVbusiness graph
+p2784
+V0.625792
+p2785
+sVlinkedin
+p2786
+V0.600999
+p2787
+sVimages
+p2788
+V0.52409
+p2789
+sVcrunchbase
+p2790
+V0.543225
+p2791
+sVgoogle plus
+p2792
+V0.787755
+p2793
+sVheavybit industries
+p2794
+V0.63628
+p2795
+sVmessage bus
+p2796
+V0.914888
+p2797
+sVsan francisco
+p2798
+V0.626953
+p2799
+sVnews
+p2800
+V0.524145
+p2801
+sVeducation
+p2802
+V0.524254
+p2803
+sVinvestment
+p2804
+V0.526972
+p2805
+sVco-founder
+p2806
+V0.623628
+p2807
+sVwearable communication devices
+p2808
+V0.74045
+p2809
+sVvideos
+p2810
+V0.524036
+p2811
+sVaug
+p2812
+V0.526712
+p2813
+sVtitle
+p2814
+V0.526096
+p2815
+sVjeremy latrasse
+p2816
+V0.957042
+p2817
+sVsupport
+p2818
+V0.524549
+p2819
+sVoperations manager
+p2820
+V0.75854
+p2821
+sVblog
+p2822
+V0.524406
+p2823
+sVodeo
+p2824
+V0.551391
+p2825
+sVprimary role
+p2826
+V0.655387
+p2827
+sVperson details
+p2828
+V0.639483
+p2829
+sVlocation
+p2830
+V0.527335
+p2831
+sVtweets
+p2832
+V0.53562
+p2833
+sVemail
+p2834
+V0.554337
+p2835
+sVprofile
+p2836
+V0.526433
+p2837
+sVjobs
+p2838
+V0.526355
+p2839
+sVceo
+p2840
+V0.528
+p2841
+sVshare
+p2842
+V0.554849
+p2843
+sVcompany
+p2844
+V0.553998
+p2845
+sVwebpresence
+p2846
+V0.549805
+p2847
+sVfacebook
+p2848
+V0.579812
+p2849
+sVteam member
+p2850
+V0.640269
+p2851
+sVrelease notes
+p2852
+V0.633758
+p2853
+sVcofounder
+p2854
+V0.575808
+p2855
+sVadvisor roles
+p2856
+V0.633949
+p2857
+sVinfo
+p2858
+V0.527905
+p2859
+sVsite map
+p2860
+V0.635093
+p2861
+sVgender
+p2862
+V0.525666
+p2863
+sVrights
+p2864
+V0.524199
+p2865
+sVmemberships
+p2866
+V0.524853
+p2867
+sVorion labs
+p2868
+V0.639865
+p2869
+sVxo group
+p2870
+V0.649714
+p2871
+sVmale
+p2872
+V0.52738
+p2873
+sVinvestments
+p2874
+V0.559309
+p2875
+ssg114
+S'http://www.crunchbase.com/person/jeremy-latrasse/primary-image/raw'
+p2876
+sa(dp2877
+g2
+S'Scott'
+p2878
+sg4
+S'Petry'
+p2879
+sg6
+S'http://www.twitter.com/imscottpetry'
+p2880
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/scott-petry/0/b8/85a'
+p2881
+sg12
+(dp2882
+Vnational team rower
+p2883
+V0.846723
+p2884
+sVauthentic8
+p2885
+V0.299147
+p2886
+sVcircuit city
+p2887
+V0.525852
+p2888
+sVproduct management group
+p2889
+V0.761513
+p2890
+sVdisposable browser
+p2891
+V0.603751
+p2892
+sVmerrill lynch
+p2893
+V0.583448
+p2894
+sVearly clients
+p2895
+V0.527945
+p2896
+sVcompliance service.mr
+p2897
+V0.567617
+p2898
+sVforms
+p2899
+V0.259704
+p2900
+sVenterprise-level email security
+p2901
+V0.937211
+p2902
+sVcanned meat product
+p2903
+V0.820103
+p2904
+sVusers
+p2905
+V0.259933
+p2906
+sVceo
+p2907
+V0.293576
+p2908
+sVcompany
+p2909
+V0.299424
+p2910
+sVleadership roles
+p2911
+V0.553709
+p2912
+sVspam.mr
+p2913
+V0.251279
+p2914
+sVnewton project
+p2915
+V0.518914
+p2916
+sVproduct management director
+p2917
+V0.867997
+p2918
+sVcomputers
+p2919
+V0.259841
+p2920
+sVworld championships
+p2921
+V0.52172
+p2922
+sVgoogle postini
+p2923
+V0.94649
+p2924
+sVhormel foods
+p2925
+V0.583529
+p2926
+sVscott petry
+p2927
+V0.916572
+p2928
+sVbronze medal
+p2929
+V0.540753
+p2930
+sVacquisition
+p2931
+V0.259626
+p2932
+ssg114
+S'http://www.crunchbase.com/person/scott-petry/primary-image/raw'
+p2933
+sa(dp2934
+g2
+S'Jocelyn'
+p2935
+sg4
+S'Ding'
+p2936
+sg6
+S'http://twitter.com/j_ling'
+p2937
+sg8
+g119
+sg10
+S'http://www.linkedin.com/profile/view?id=30235506'
+p2938
+sg12
+(dp2939
+Vproduct fulfillment
+p2940
+V0.422342
+p2941
+sVorder management
+p2942
+V0.404519
+p2943
+sVelectric power research
+p2944
+V0.60998
+p2945
+sVpostini
+p2946
+V0.556519
+p2947
+sVbuildout
+p2948
+V0.230139
+p2949
+sVprogram management
+p2950
+V0.403177
+p2951
+sVcustomer support services
+p2952
+V0.62707
+p2953
+sVoperational teams
+p2954
+V0.421902
+p2955
+sVbusiness systems development
+p2956
+V0.665401
+p2957
+sVdata centers
+p2958
+V0.389947
+p2959
+sVgoogle enterprise
+p2960
+V0.553759
+p2961
+sVvp
+p2962
+V0.205246
+p2963
+sVtraining services
+p2964
+V0.412502
+p2965
+sVbusiness operations
+p2966
+V0.395526
+p2967
+sVbusiness administration
+p2968
+V0.382819
+p2969
+sVpalo alto
+p2970
+V0.408371
+p2971
+sVexecutive vice president
+p2972
+V0.681251
+p2973
+sVjocelyn ding
+p2974
+V0.935399
+p2975
+sVenterprise customers
+p2976
+V0.411822
+p2977
+ssg114
+S'http://www.crunchbase.com/person/jocelyn-ding/primary-image/raw'
+p2978
+sa(dp2979
+g2
+S'Mallku'
+p2980
+sg4
+S'Caballero'
+p2981
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/mallku'
+p2982
+sg12
+(dp2983
+Vco-founder
+p2984
+V0.311194
+p2985
+sVinternet media publishing
+p2986
+V0.951675
+p2987
+sVcu-seeme
+p2988
+V0.399894
+p2989
+sVwhite pine software
+p2990
+V0.9261
+p2991
+sVmedium-sized companies
+p2992
+V0.762124
+p2993
+sVpioneer
+p2994
+V0.252789
+p2995
+sVchief scientist
+p2996
+V0.763922
+p2997
+sVip videoconferencing
+p2998
+V0.682373
+p2999
+sVtechnology divisions
+p3000
+V0.722389
+p3001
+sVcaballero
+p3002
+V0.401294
+p3003
+sVconsumer software
+p3004
+V0.581096
+p3005
+sVstart-ups
+p3006
+V0.333707
+p3007
+sVmid-nineties
+p3008
+V0.448068
+p3009
+ssg114
+g119
+sa(dp3010
+g2
+S'Ben'
+p3011
+sg4
+S'Golub'
+p3012
+sg6
+S'https://twitter.com/golubbe'
+p3013
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/bengolub'
+p3014
+sg12
+(dp3015
+Vred hat
+p3016
+V0.565767
+p3017
+sVlightweight container
+p3018
+V0.580776
+p3019
+sVsocial media pioneer
+p3020
+V0.769335
+p3021
+sVgluster
+p3022
+V0.377273
+p3023
+sVben golub
+p3024
+V0.990993
+p3025
+sVgeneral manager
+p3026
+V0.542713
+p3027
+sVdocker.io
+p3028
+V0.345858
+p3029
+sVsenior vice president
+p3030
+V0.760506
+p3031
+sVpublic policy
+p3032
+V0.53641
+p3033
+sVship
+p3034
+V0.342695
+p3035
+sVprinceton university
+p3036
+V0.540147
+p3037
+sVstart-up ceo
+p3038
+V0.796444
+p3039
+sVscale
+p3040
+V0.341219
+p3041
+sVopen source
+p3042
+V0.798551
+p3043
+sVpublic administration
+p3044
+V0.538689
+p3045
+sVchief marketing officer
+p3046
+V0.748804
+p3047
+sVapplication
+p3048
+V0.342571
+p3049
+sVharvard business school
+p3050
+V0.772707
+p3051
+sVworldwide sales
+p3052
+V0.536669
+p3053
+sVbusiness development activities
+p3054
+V0.737429
+p3055
+sVdevelopers
+p3056
+V0.342794
+p3057
+sVverisign
+p3058
+V0.444296
+p3059
+sVopen source projects
+p3060
+V0.787438
+p3061
+sVproduct development
+p3062
+V0.533816
+p3063
+sVcommercial entity
+p3064
+V0.606755
+p3065
+sVcurrent ceo
+p3066
+V0.781695
+p3067
+sVsecurity services business
+p3068
+V0.750596
+p3069
+sVmasters
+p3070
+V0.338145
+p3071
+sVmba
+p3072
+V0.354458
+p3073
+sVserial entrepreneur
+p3074
+V0.619728
+p3075
+sVstorage company
+p3076
+V0.560282
+p3077
+sVcomcast
+p3078
+V0.378195
+p3079
+sVroles
+p3080
+V0.342259
+p3081
+sVpayments business
+p3082
+V0.561863
+p3083
+sVkennedy school
+p3084
+V0.541764
+p3085
+sVdocker
+p3086
+V0.720592
+p3087
+sVpack
+p3088
+V0.342744
+p3089
+sVinc.
+p3090
+V0.33889
+p3091
+sVplaxo
+p3092
+V0.374925
+p3093
+ssg114
+S'http://www.crunchbase.com/person/ben-golub/primary-image/raw'
+p3094
+sa(dp3095
+g2
+S'Ryan'
+p3096
+sg4
+S'King'
+p3097
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/ryanaking'
+p3098
+sg12
+(dp3099
+Vcomcast interactive media
+p3100
+V0.978745
+p3101
+sVsocial networking pioneer
+p3102
+V0.922918
+p3103
+sVliberate technologies
+p3104
+V0.727629
+p3105
+sVryan
+p3106
+V0.655054
+p3107
+sVvp
+p3108
+V0.448734
+p3109
+sVengineering
+p3110
+V0.348334
+p3111
+sVchime
+p3112
+V0.47651
+p3113
+sVcto
+p3114
+V0.488267
+p3115
+sVearly professional
+p3116
+V0.61064
+p3117
+sVco-founder
+p3118
+V0.446354
+p3119
+sVplaxo
+p3120
+V0.372482
+p3121
+ssg114
+S'http://www.crunchbase.com/person/ryan-king/primary-image/raw'
+p3122
+sa(dp3123
+g2
+S'John'
+p3124
+sg4
+S'McCrea'
+p3125
+sg6
+S'http://twitter.com/johnmccrea'
+p3126
+sg8
+S'http://www.facebook.com/johnmccrea'
+p3127
+sg10
+S'http://www.linkedin.com/in/therealmccrea'
+p3128
+sg12
+(dp3129
+Vshowtime
+p3130
+V0.375835
+p3131
+sVmba
+p3132
+V0.361065
+p3133
+sVleadership team
+p3134
+V0.57126
+p3135
+sVvp
+p3136
+V0.378353
+p3137
+sVcbs
+p3138
+V0.347827
+p3139
+sVkey member
+p3140
+V0.57192
+p3141
+sVmediaspike
+p3142
+V0.428453
+p3143
+sVbusiness unit
+p3144
+V0.581495
+p3145
+sVstanford gsb
+p3146
+V0.607156
+p3147
+sVnbc
+p3148
+V0.356125
+p3149
+sVsocial tv startup
+p3150
+V0.840905
+p3151
+sVtotal
+p3152
+V0.340448
+p3153
+sVinnovative partnerships
+p3154
+V0.593756
+p3155
+sVsites
+p3156
+V0.341903
+p3157
+sVjava ide
+p3158
+V0.559251
+p3159
+sVsony pictures
+p3160
+V0.592081
+p3161
+sVcomcast interactive media
+p3162
+V0.950653
+p3163
+sVproduct
+p3164
+V0.340675
+p3165
+sVindustry firsts
+p3166
+V0.59459
+p3167
+sVcombination
+p3168
+V0.347168
+p3169
+sVmarketing
+p3170
+V0.376828
+p3171
+sVcommercial html editor
+p3172
+V0.759073
+p3173
+sVfounder/gm
+p3174
+V0.344378
+p3175
+sVpioneering social media
+p3176
+V0.863785
+p3177
+sVwebsite sponsorship deal
+p3178
+V0.794086
+p3179
+sVweb startups
+p3180
+V0.921728
+p3181
+sVbusiness development
+p3182
+V0.558734
+p3183
+sVhbo
+p3184
+V0.375298
+p3185
+sVjohn
+p3186
+V0.489966
+p3187
+sVtunerfish
+p3188
+V0.344195
+p3189
+sVjava licensing deal
+p3190
+V0.79329
+p3191
+sVacquisition
+p3192
+V0.343806
+p3193
+sVm.i.t
+p3194
+V0.387426
+p3195
+sVplaxo
+p3196
+V0.342109
+p3197
+sVcoo
+p3198
+V0.407798
+p3199
+sVturnkey web servers
+p3200
+V0.764516
+p3201
+ssg114
+S'http://www.crunchbase.com/person/john-mccrea/primary-image/raw'
+p3202
+sa(dp3203
+g2
+S'Joseph'
+p3204
+sg4
+S'Smarr'
+p3205
+sg6
+S'http://twitter.com/jsmarr'
+p3206
+sg8
+S'http://www.facebook.com/jsmarr'
+p3207
+sg10
+S'http://www.linkedin.com/in/jsmarr'
+p3208
+sg12
+(dp3209
+Vopen standards
+p3210
+V0.553211
+p3211
+sVchief technology officer
+p3212
+V0.945888
+p3213
+sVweb applications
+p3214
+V0.475715
+p3215
+sVsocial web
+p3216
+V0.681206
+p3217
+sVsocial networking
+p3218
+V0.47766
+p3219
+sVstanford university
+p3220
+V0.512898
+p3221
+sVfrequent speaker
+p3222
+V0.537182
+p3223
+sVopenid foundation
+p3224
+V0.594293
+p3225
+sVgoogle
+p3226
+V0.200193
+p3227
+sVjoseph smarr
+p3228
+V0.558154
+p3229
+sVweb development communities
+p3230
+V0.808662
+p3231
+sVbs
+p3232
+V0.223435
+p3233
+sVcommunity participant
+p3234
+V0.55295
+p3235
+sVartificial intelligence
+p3236
+V0.493434
+p3237
+sVsoftware engineer
+p3238
+V0.611342
+p3239
+ssg114
+S'http://www.crunchbase.com/person/joseph-smarr/primary-image/raw'
+p3240
+sa(dp3241
+g2
+S'Venkates'
+p3242
+sg4
+S'Swaminathan'
+p3243
+sg6
+S'https://twitter.com/swamus'
+p3244
+sg8
+g119
+sg10
+S'https://www.linkedin.com/in/swamus'
+p3245
+sg12
+(dp3246
+Vnew delhi
+p3247
+V0.490143
+p3248
+sVrevenue alliances
+p3249
+V0.511963
+p3250
+sVscience degree
+p3251
+V0.414418
+p3252
+sVbusiness development
+p3253
+V0.485801
+p3254
+sVnightfire software
+p3255
+V0.61016
+p3256
+sVswami
+p3257
+V0.440386
+p3258
+sVvice president
+p3259
+V0.939546
+p3260
+sVchief strategist
+p3261
+V0.505111
+p3262
+sVprogram management positions
+p3263
+V0.703992
+p3264
+sVindian institute
+p3265
+V0.426851
+p3266
+sVneustar
+p3267
+V0.235959
+p3268
+sVtechnology degree
+p3269
+V0.413692
+p3270
+sVexecutive vice president
+p3271
+V0.85326
+p3272
+sVprevious engagements
+p3273
+V0.471309
+p3274
+sVelectrical engineering
+p3275
+V0.629646
+p3276
+sVplaxo
+p3277
+V0.253085
+p3278
+sVswaminathan
+p3279
+V0.254843
+p3280
+sVtcsi corporation
+p3281
+V0.421752
+p3282
+sVtelesphere solutions
+p3283
+V0.42325
+p3284
+ssg114
+S'http://www.crunchbase.com/person/venkates-swaminathan/primary-image/raw'
+p3285
+sa(dp3286
+g2
+S'Barney'
+p3287
+sg4
+S'Pell'
+p3288
+sg6
+S'http://twitter.com/barneyp'
+p3289
+sg8
+S'http://www.facebook.com/barneypell'
+p3290
+sg10
+S'http://www.linkedin.com/in/barneypell'
+p3291
+sg12
+(dp3292
+Vnasa‚\u20ac\u2122s new millennium
+p3293
+V0.478566
+p3294
+sVdr. barney pell
+p3295
+V0.680708
+p3296
+sVred herring communications
+p3297
+V0.478933
+p3298
+sVexploration rovers mission
+p3299
+V0.48503
+p3300
+sVscheduling systems
+p3301
+V0.452049
+p3302
+sVkey role
+p3303
+V0.451762
+p3304
+sVinformation retrieval
+p3305
+V0.450841
+p3306
+sVlanguage processing technology
+p3307
+V0.510061
+p3308
+sVbusiness intelligence
+p3309
+V0.457119
+p3310
+sVsan-francisco startup company
+p3311
+V0.506515
+p3312
+sVspoken dialog systems
+p3313
+V0.493168
+p3314
+sVnational merit scholar
+p3315
+V0.481532
+p3316
+sVventure capital firm
+p3317
+V0.495103
+p3318
+sVdr. pell
+p3319
+V0.901576
+p3320
+sV80-person research
+p3321
+V0.455599
+p3322
+sVnasa ames research
+p3323
+V0.515371
+p3324
+sVintelligent agents
+p3325
+V0.492035
+p3326
+sVsoftware architecture
+p3327
+V0.454375
+p3328
+sVadvanced text processing
+p3329
+V0.486359
+p3330
+sVinformation management
+p3331
+V0.493972
+p3332
+sVstock-market analysis tools
+p3333
+V0.48218
+p3334
+sVinformation integration
+p3335
+V0.496564
+p3336
+sVtechnology maturation
+p3337
+V0.452609
+p3338
+sVcollaborative assistant systems
+p3339
+V0.495967
+p3340
+sVnatural language processing
+p3341
+V0.57503
+p3342
+sVphi beta kappa
+p3343
+V0.484526
+p3344
+sVsocial software
+p3345
+V0.457701
+p3346
+sVartificial intelligence
+p3347
+V0.488995
+p3348
+sVautonomous control software
+p3349
+V0.49552
+p3350
+sVdevelopment organization
+p3351
+V0.454759
+p3352
+sVintegrated product development
+p3353
+V0.488473
+p3354
+sVautonomous systems technology
+p3355
+V0.500195
+p3356
+sVcomputational sciences division
+p3357
+V0.488765
+p3358
+sVcollaborative knowledge management
+p3359
+V0.495375
+p3360
+sVautonomous agents
+p3361
+V0.453784
+p3362
+sVconsumer internet portfolio
+p3363
+V0.490502
+p3364
+sVbusiness development
+p3365
+V0.486635
+p3366
+sVdeep space missions
+p3367
+V0.48687
+p3368
+sVremote agent
+p3369
+V0.520462
+p3370
+sVnasa astrobiology institute
+p3371
+V0.504494
+p3372
+sVremote agent experiment
+p3373
+V0.48532
+p3374
+sVsearch engine software
+p3375
+V0.494721
+p3376
+sVinternational space station
+p3377
+V0.489085
+p3378
+sVmid-stage companies
+p3379
+V0.458985
+p3380
+sVtechnical area manager
+p3381
+V0.492503
+p3382
+sVsearch engine
+p3383
+V0.498023
+p3384
+sVcas research areas
+p3385
+V0.505743
+p3386
+sVpersonnel management
+p3387
+V0.454821
+p3388
+sVsymbolic systems
+p3389
+V0.453056
+p3390
+ssg114
+S'http://www.crunchbase.com/person/barney-pell/primary-image/raw'
+p3391
+sa(dp3392
+g2
+S'Lorenzo'
+p3393
+sg4
+S'Thione'
+p3394
+sg6
+S'http://twitter.com/thione'
+p3395
+sg8
+S'http://www.facebook.com/thione'
+p3396
+sg10
+S'http://www.linkedin.com/in/lorenzothione'
+p3397
+sg12
+(dp3398
+Vjapanese american family
+p3399
+V0.775791
+p3400
+sVbroadway stage
+p3401
+V0.789958
+p3402
+sVboard member
+p3403
+V0.780685
+p3404
+sVsearch technology
+p3405
+V0.677472
+p3406
+sVinnovative search startup
+p3407
+V0.859278
+p3408
+sV8coupons
+p3409
+V0.553186
+p3410
+sVinternet-tech endeavors
+p3411
+V0.650995
+p3412
+sVmusical allegiance
+p3413
+V0.654685
+p3414
+sVamerican idiot
+p3415
+V0.664328
+p3416
+sVsan francisco
+p3417
+V0.916406
+p3418
+sVhuman-based computing
+p3419
+V0.651606
+p3420
+sVpowerset division
+p3421
+V0.752673
+p3422
+sVmicrosoft corp.
+p3423
+V0.666788
+p3424
+sVactive angel investor
+p3425
+V0.777719
+p3426
+sVscalable platform
+p3427
+V0.649862
+p3428
+sVjay kuo
+p3429
+V0.649364
+p3430
+sVassociate producer
+p3431
+V0.644288
+p3432
+sVeffective type
+p3433
+V0.668062
+p3434
+sVconventional keyword search
+p3435
+V0.812666
+p3436
+sVactive chapters
+p3437
+V0.640123
+p3438
+sVambitious project
+p3439
+V0.65119
+p3440
+sVnew york
+p3441
+V0.644279
+p3442
+sVdecision engine
+p3443
+V0.647891
+p3444
+sVstartout
+p3445
+V0.538251
+p3446
+sVvarious stages
+p3447
+V0.64499
+p3448
+sVprincipal program manager
+p3449
+V0.779854
+p3450
+sVdolores labs
+p3451
+V0.652548
+p3452
+sVbroadway debut
+p3453
+V0.654877
+p3454
+sVinternet search
+p3455
+V0.680535
+p3456
+sVgeorge takei
+p3457
+V0.659358
+p3458
+sVbay area residents
+p3459
+V0.750294
+p3460
+sVnew musical bound
+p3461
+V0.778629
+p3462
+sVnon-profit organization
+p3463
+V0.646012
+p3464
+sVcomputational linguistics
+p3465
+V0.633774
+p3466
+sVtheater producer
+p3467
+V0.649781
+p3468
+sVlea salonga
+p3469
+V0.653753
+p3470
+sVangel investors
+p3471
+V0.659491
+p3472
+sVlgbt community
+p3473
+V0.642246
+p3474
+sVsan francisco startup
+p3475
+V0.822391
+p3476
+sVcharity groups
+p3477
+V0.63567
+p3478
+sVsoftware engineering
+p3479
+V0.640315
+p3480
+sVamerican conservatory theatre
+p3481
+V0.76254
+p3482
+sVlocal businesses
+p3483
+V0.635376
+p3484
+sVlorenzo thione
+p3485
+V0.767254
+p3486
+sVjapanese american internment
+p3487
+V0.780114
+p3488
+sVlos angeles
+p3489
+V0.638744
+p3490
+sVfaster growth
+p3491
+V0.638004
+p3492
+sVsilicon valley vcs
+p3493
+V0.814399
+p3494
+sVaustin
+p3495
+V0.538229
+p3496
+sVnew works
+p3497
+V0.654068
+p3498
+ssg114
+S'http://www.crunchbase.com/person/lorenzo-thione/primary-image/raw'
+p3499
+sa(dp3500
+g2
+S'Ted'
+p3501
+sg4
+S'Murphy'
+p3502
+sg6
+S'http://twitter.com/tedmurphy'
+p3503
+sg8
+S'http://www.facebook.com/tedmurphy'
+p3504
+sg10
+S'http://www.linkedin.com/in/tedmurphy'
+p3505
+sg12
+(dp3506
+Vdynamic serial entrepreneur
+p3507
+V0.878128
+p3508
+sVsmall businesses
+p3509
+V0.454785
+p3510
+sVnumerous sponsored photos
+p3511
+V0.710919
+p3512
+sVglobal leader
+p3513
+V0.469252
+p3514
+sVted\u2019s leadership
+p3515
+V0.521161
+p3516
+sVsocial media sponsorship
+p3517
+V0.760658
+p3518
+sVmarketing strategies
+p3519
+V0.456944
+p3520
+sVizea network
+p3521
+V0.972358
+p3522
+sVentertainment agencies
+p3523
+V0.424967
+p3524
+sVsingle post
+p3525
+V0.42915
+p3526
+sVdemocratizing content
+p3527
+V0.534729
+p3528
+sVizea media
+p3529
+V0.929192
+p3530
+sVinfluencer compensation
+p3531
+V0.458863
+p3532
+sVizea
+p3533
+V0.990587
+p3534
+sVtweets
+p3535
+V0.204115
+p3536
+sVsocial media sponsorships
+p3537
+V0.724163
+p3538
+ssg114
+S'http://www.crunchbase.com/person/ted-murphy/primary-image/raw'
+p3539
+sa(dp3540
+g2
+S'Jason'
+p3541
+sg4
+S'Calacanis'
+p3542
+sg6
+S'http://twitter.com/Jason'
+p3543
+sg8
+S'http://www.facebook.com/jasoncalacanis'
+p3544
+sg10
+S'http://www.linkedin.com/in/jasoncalacanis'
+p3545
+sg12
+(dp3546
+Vfirm
+p3547
+V0.442201
+p3548
+sVsenior vice president
+p3549
+V0.860651
+p3550
+sVfounder
+p3551
+V0.475518
+p3552
+sVsite
+p3553
+V0.437523
+p3554
+sVlaunch media
+p3555
+V0.681387
+p3556
+sVgeneral manager
+p3557
+V0.641485
+p3558
+sVmedia industries
+p3559
+V0.631147
+p3560
+sVsocial bookmarking news
+p3561
+V0.86337
+p3562
+sVstartups
+p3563
+V0.468971
+p3564
+sVsequoia capital
+p3565
+V0.69561
+p3566
+sVnetwork
+p3567
+V0.439285
+p3568
+sVsource
+p3569
+V0.438001
+p3570
+sVaddition
+p3571
+V0.438021
+p3572
+sVsilicon alley reporter
+p3573
+V0.942083
+p3574
+sVbulldog
+p3575
+V0.445138
+p3576
+sVnew york
+p3577
+V0.624029
+p3578
+sVinternet
+p3579
+V0.435812
+p3580
+sVpopular weblogs
+p3581
+V0.741224
+p3582
+sViconic browser
+p3583
+V0.668199
+p3584
+sVfordham university
+p3585
+V0.637438
+p3586
+sVventure capital database
+p3587
+V0.878527
+p3588
+sVflagship publication
+p3589
+V0.644167
+p3590
+sVtransparency
+p3591
+V0.455443
+p3592
+sVceo
+p3593
+V0.541222
+p3594
+sVdow jones
+p3595
+V0.641898
+p3596
+sVaol
+p3597
+V0.59014
+p3598
+sVleading venture capital
+p3599
+V0.961346
+p3600
+sVweblogs inc.
+p3601
+V0.721306
+p3602
+sVventure reporter
+p3603
+V0.755323
+p3604
+sVsilicon valley
+p3605
+V0.700652
+p3606
+sVdigital coast reporter
+p3607
+V0.903257
+p3608
+sVmedia company
+p3609
+V0.637913
+p3610
+sVnetscape
+p3611
+V0.444786
+p3612
+sVrelaunch
+p3613
+V0.480131
+p3614
+sVinsights
+p3615
+V0.437729
+p3616
+sVinside.com
+p3617
+V0.504519
+p3618
+sVtide studios
+p3619
+V0.646403
+p3620
+sVentrepreneur
+p3621
+V0.463573
+p3622
+sVwife
+p3623
+V0.437809
+p3624
+sVlos angeles
+p3625
+V0.624391
+p3626
+sVjason mccabe calacanis
+p3627
+V0.953643
+p3628
+sVaction
+p3629
+V0.442455
+p3630
+sVposition
+p3631
+V0.441342
+p3632
+ssg114
+S'http://www.crunchbase.com/person/jason-calacanis/primary-image/raw'
+p3633
+sa(dp3634
+g2
+S'Daniel'
+p3635
+sg4
+S'Graf'
+p3636
+sg6
+S'http://twitter.com/danielgraf'
+p3637
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/danielgraf'
+p3638
+sg12
+(dp3639
+Vwireless home entertainment
+p3640
+V0.649837
+p3641
+sVpredecessor
+p3642
+V0.338946
+p3643
+sVgoogle
+p3644
+V0.474921
+p3645
+sVoutstanding achievers
+p3646
+V0.502429
+p3647
+sVbs
+p3648
+V0.336635
+p3649
+sVhard disk jukebox
+p3650
+V0.641051
+p3651
+sVinternationally recognized technology
+p3652
+V0.701795
+p3653
+sVmobile maps
+p3654
+V0.530106
+p3655
+sVworld premieres
+p3656
+V0.512374
+p3657
+sVvideo platform
+p3658
+V0.510359
+p3659
+sVmp3
+p3660
+V0.329763
+p3661
+sVfield
+p3662
+V0.358191
+p3663
+sVrpi
+p3664
+V0.34043
+p3665
+sVmedia consumer products
+p3666
+V0.673248
+p3667
+sVhome entertainment
+p3668
+V0.698113
+p3669
+sVtroy ny
+p3670
+V0.479303
+p3671
+sVkit digital
+p3672
+V0.497368
+p3673
+sVphilips consumer electronics
+p3674
+V0.690681
+p3675
+sVconsumer electronics startup
+p3676
+V0.675691
+p3677
+sVsuccessful business
+p3678
+V0.477892
+p3679
+sVinterstate college
+p3680
+V0.485184
+p3681
+sVpioneer
+p3682
+V0.376807
+p3683
+sVmobile apps lab
+p3684
+V0.697031
+p3685
+sVdaniel
+p3686
+V0.53234
+p3687
+sVkyte
+p3688
+V0.782355
+p3689
+sVswiss people
+p3690
+V0.480344
+p3691
+sVkyte platform
+p3692
+V0.731885
+p3693
+sVrequest multimedia
+p3694
+V0.732139
+p3695
+sVcompany
+p3696
+V0.330107
+p3697
+sVsystems engineering
+p3698
+V0.484473
+p3699
+sVinternet video services
+p3700
+V0.6708
+p3701
+sVawards
+p3702
+V0.329863
+p3703
+sVon-demand content
+p3704
+V0.506928
+p3705
+sVceo
+p3706
+V0.338574
+p3707
+sVipod
+p3708
+V0.334444
+p3709
+sVaward
+p3710
+V0.329715
+p3711
+sVsocial video
+p3712
+V0.508054
+p3713
+sVelectrical engineering
+p3714
+V0.485733
+p3715
+sVinternet services
+p3716
+V0.679504
+p3717
+sVnew york
+p3718
+V0.487522
+p3719
+sVproduct idea
+p3720
+V0.480524
+p3721
+sVip video leader
+p3722
+V0.672121
+p3723
+sVconsumer electronics
+p3724
+V0.972368
+p3725
+sVentrepreneurial role
+p3726
+V0.513565
+p3727
+sVlist
+p3728
+V0.329684
+p3729
+sVbuild-up
+p3730
+V0.34618
+p3731
+sVswitzerland
+p3732
+V0.351771
+p3733
+sVrich background
+p3734
+V0.515626
+p3735
+sVchief software engineer
+p3736
+V0.639634
+p3737
+sVinternet audio stereo
+p3738
+V0.660759
+p3739
+ssg114
+S'http://www.crunchbase.com/person/daniel-graf/primary-image/raw'
+p3740
+sa(dp3741
+g2
+S'Steve'
+p3742
+sg4
+S'Mitgang'
+p3743
+sg6
+g119
+sg8
+S'http://www.facebook.com/smitgang'
+p3744
+sg10
+S'http://www.linkedin.com/pub/steve-mitgang/0/637/35b'
+p3745
+sg12
+(dp3746
+Vtownsend street
+p3747
+V0.339754
+p3748
+sVtwitter
+p3749
+V0.238796
+p3750
+sVbusiness graph
+p3751
+V0.334693
+p3752
+sVlinkedin
+p3753
+V0.282873
+p3754
+sVjostens learning company
+p3755
+V0.567855
+p3756
+sVgoogle plus
+p3757
+V0.642063
+p3758
+sVsan francisco
+p3759
+V0.338057
+p3760
+sVeducation
+p3761
+V0.201814
+p3762
+sVupper deck
+p3763
+V0.355629
+p3764
+sVjan
+p3765
+V0.599124
+p3766
+sVprimary role
+p3767
+V0.395851
+p3768
+sVperson details
+p3769
+V0.366641
+p3770
+sVceo @ smartdrive
+p3771
+V0.505004
+p3772
+sVsmartdrive systems
+p3773
+V0.858065
+p3774
+sVinterim president
+p3775
+V0.414143
+p3776
+sVjobs
+p3777
+V0.201022
+p3778
+sVexecutive chairman
+p3779
+V0.38325
+p3780
+sVceo
+p3781
+V0.525839
+p3782
+sVshare
+p3783
+V0.204989
+p3784
+sVjun
+p3785
+V0.220788
+p3786
+sVfacebook
+p3787
+V0.245663
+p3788
+sVrelease notes
+p3789
+V0.351322
+p3790
+sVadvisor roles
+p3791
+V0.346723
+p3792
+sVsteve mitgang
+p3793
+V0.933849
+p3794
+sVsite map
+p3795
+V0.353564
+p3796
+sVstrategic vision group
+p3797
+V0.553633
+p3798
+sVemail
+p3799
+V0.204115
+p3800
+sVclick/touch  update
+p3801
+V0.461242
+p3802
+sVsvp marketing
+p3803
+V0.684561
+p3804
+ssg114
+g119
+sa(dp3805
+g2
+S'Joshua'
+p3806
+sg4
+S'Metzger'
+p3807
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/joshua-metzger/0/9a/b1b'
+p3808
+sg12
+(dp3809
+Vgamelin advergames
+p3810
+V0.921328
+p3811
+sVtownsend street
+p3812
+V0.426591
+p3813
+sVtwitter
+p3814
+V0.3749
+p3815
+sVbusiness graph
+p3816
+V0.419784
+p3817
+sVlinkedin
+p3818
+V0.400115
+p3819
+sVcrunchbase
+p3820
+V0.342352
+p3821
+sVgoogle plus
+p3822
+V0.583698
+p3823
+sVrelease notes
+p3824
+V0.431313
+p3825
+sVsan francisco
+p3826
+V0.424778
+p3827
+sVnews
+p3828
+V0.32364
+p3829
+sVeducation
+p3830
+V0.352375
+p3831
+sVperson details
+p3832
+V0.439324
+p3833
+sVmemberships
+p3834
+V0.324388
+p3835
+sVwebpresence
+p3836
+V0.326765
+p3837
+sVfeb
+p3838
+V0.328211
+p3839
+sVaug
+p3840
+V0.328523
+p3841
+sVtitle
+p3842
+V0.3256
+p3843
+sVsupport
+p3844
+V0.323986
+p3845
+sVnew york
+p3846
+V0.667359
+p3847
+sVprodigy networks
+p3848
+V0.442034
+p3849
+sVjan
+p3850
+V0.467385
+p3851
+sVprimary role
+p3852
+V0.453672
+p3853
+sVcorporate development
+p3854
+V0.43684
+p3855
+sVbusiness affairs
+p3856
+V0.433786
+p3857
+sVlocation
+p3858
+V0.3269
+p3859
+sVshearman
+p3860
+V0.336284
+p3861
+sVcontent
+p3862
+V0.324265
+p3863
+sVemail
+p3864
+V0.353184
+p3865
+sVgeneral counsel
+p3866
+V0.435705
+p3867
+sVveoh
+p3868
+V0.325223
+p3869
+sVjobs
+p3870
+V0.326411
+p3871
+sVshare
+p3872
+V0.353709
+p3873
+sVcompany
+p3874
+V0.325556
+p3875
+sVjoshua metzger
+p3876
+V0.830208
+p3877
+sVdirector
+p3878
+V0.324293
+p3879
+sVfacebook
+p3880
+V0.378853
+p3881
+sVbs
+p3882
+V0.328296
+p3883
+sVservices
+p3884
+V0.324962
+p3885
+sVpresident
+p3886
+V0.397562
+p3887
+sVlaw
+p3888
+V0.323935
+p3889
+sVadvisor roles
+p3890
+V0.42828
+p3891
+sVinfo
+p3892
+V0.327417
+p3893
+sVsite map
+p3894
+V0.43269
+p3895
+sVconsultant
+p3896
+V0.326232
+p3897
+sVeconomics
+p3898
+V0.323677
+p3899
+sVblog
+p3900
+V0.323839
+p3901
+sVclick/touch  update
+p3902
+V0.480757
+p3903
+sVgender
+p3904
+V0.325264
+p3905
+sVrj consulting
+p3906
+V0.450955
+p3907
+sVmale
+p3908
+V0.326946
+p3909
+ssg114
+g119
+sa(dp3910
+g2
+S'Ted'
+p3911
+sg4
+S'Dunning'
+p3912
+sg6
+S'https://twitter.com/ted_dunning'
+p3913
+sg8
+S'https://www.facebook.com/ted.dunning'
+p3914
+sg10
+S'http://www.linkedin.com/in/teddunning'
+p3915
+sg12
+(dp3916
+Vcommitter
+p3917
+V0.425898
+p3918
+sVcolorado
+p3919
+V0.338538
+p3920
+sVmusicmatch
+p3921
+V0.445527
+p3922
+sVzookeeper
+p3923
+V0.419255
+p3924
+sVted
+p3925
+V0.831697
+p3926
+sVms degree
+p3927
+V0.55373
+p3928
+sVapache open source
+p3929
+V0.856707
+p3930
+sVdetection
+p3931
+V0.34281
+p3932
+sVdrinks
+p3933
+V0.359632
+p3934
+sVhadoop user group
+p3935
+V0.96646
+p3936
+sVbs degree
+p3937
+V0.59056
+p3938
+sVground-breaking music
+p3939
+V0.651652
+p3940
+sVveoh networks
+p3941
+V0.607094
+p3942
+sVunited kingdom
+p3943
+V0.548517
+p3944
+sVadvanced identity theft
+p3945
+V0.840995
+p3946
+sVhbase\u2122
+p3947
+V0.340638
+p3948
+sVid analytics
+p3949
+V0.64207
+p3950
+sVvideo distribution systems
+p3951
+V0.816778
+p3952
+sVapache mahout
+p3953
+V0.621986
+p3954
+sVchief scientist positions
+p3955
+V0.904831
+p3956
+sVyahoo music
+p3957
+V0.605375
+p3958
+sVsheffield university
+p3959
+V0.568314
+p3960
+sVmexico state university
+p3961
+V0.771827
+p3962
+sVprojects
+p3963
+V0.340826
+p3964
+sVscience
+p3965
+V0.359261
+p3966
+sVplanet
+p3967
+V0.342682
+p3968
+sVvideo recommendations systems
+p3969
+V0.819325
+p3970
+sVelectrical engineering
+p3971
+V0.55471
+p3972
+sVpatents
+p3973
+V0.353439
+p3974
+ssg114
+S'http://www.crunchbase.com/person/ted-dunning/primary-image/raw'
+p3975
+sa(dp3976
+g2
+S'Ted'
+p3977
+sg4
+S'Meisel'
+p3978
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/ted-meisel/2/405/792'
+p3979
+sg12
+(dp3980
+Voperations
+p3981
+V0.551337
+p3982
+sVuber
+p3983
+V0.533334
+p3984
+sVforbes media
+p3985
+V0.69184
+p3986
+sVportfolio companies
+p3987
+V0.6876
+p3988
+sVindividual city guides
+p3989
+V0.787567
+p3990
+sViac/interactive corp
+p3991
+V0.658892
+p3992
+sVboard member
+p3993
+V0.647461
+p3994
+sVstrategic planning associates
+p3995
+V0.778299
+p3996
+sVcitysearch
+p3997
+V0.610467
+p3998
+sVbipartisan group
+p3999
+V0.666572
+p4000
+sVrapid revenue growth
+p4001
+V0.788968
+p4002
+sVstanford law school
+p4003
+V0.766187
+p4004
+sVmckinsey
+p4005
+V0.540403
+p4006
+sVnewly-named yahoo
+p4007
+V0.67124
+p4008
+sVadvertising companies
+p4009
+V0.682443
+p4010
+sVdigital media
+p4011
+V0.676024
+p4012
+sVveoh networks
+p4013
+V0.646923
+p4014
+sVhope street group
+p4015
+V0.779972
+p4016
+sVinternet executive
+p4017
+V0.658889
+p4018
+sVmercer management consulting
+p4019
+V0.781353
+p4020
+sVceo
+p4021
+V0.529541
+p4022
+sVprimary focus
+p4023
+V0.65578
+p4024
+sVprofessional services
+p4025
+V0.654615
+p4026
+sVextensive experience
+p4027
+V0.669829
+p4028
+sVmain competitor
+p4029
+V0.658966
+p4030
+sVpotential investments
+p4031
+V0.676072
+p4032
+sVsearch marketing division
+p4033
+V0.800751
+p4034
+sVsoftware platform
+p4035
+V0.655195
+p4036
+sVindependent internet television
+p4037
+V0.775648
+p4038
+sVcompany
+p4039
+V0.548684
+p4040
+sVconsulting firms
+p4041
+V0.653791
+p4042
+sVsearch advertising
+p4043
+V0.675353
+p4044
+sVproduct management
+p4045
+V0.656095
+p4046
+sVinternet city guide
+p4047
+V0.797508
+p4048
+sVoverture services
+p4049
+V0.748614
+p4050
+sVted meisel
+p4051
+V0.942403
+p4052
+sVworldwide footprint
+p4053
+V0.667168
+p4054
+sVworldwide revenues
+p4055
+V0.67332
+p4056
+sVbetter economic future
+p4057
+V0.776251
+p4058
+sVbusiness development
+p4059
+V0.660424
+p4060
+sVamerican dream
+p4061
+V0.650489
+p4062
+sVdeveloping-stage companies
+p4063
+V0.654025
+p4064
+sVsenior advisor
+p4065
+V0.695526
+p4066
+sVbusiness leaders
+p4067
+V0.656706
+p4068
+sVdartmouth college
+p4069
+V0.647169
+p4070
+sVproduct design
+p4071
+V0.65475
+p4072
+sVlos angeles
+p4073
+V0.75892
+p4074
+sVelevation partners
+p4075
+V0.686088
+p4076
+sVsidewalk
+p4077
+V0.533929
+p4078
+sVbusiness interests
+p4079
+V0.65761
+p4080
+ssg114
+S'http://www.crunchbase.com/person/ted-meisel/primary-image/raw'
+p4081
+sa(dp4082
+g2
+S'Todd'
+p4083
+sg4
+S'Dagres'
+p4084
+sg6
+S'http://twitter.com/todddowl'
+p4085
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/todd-dagres/18/1a8/823'
+p4086
+sg12
+(dp4087
+Vmenara networks
+p4088
+V0.638031
+p4089
+sVfounder
+p4090
+V0.435915
+p4091
+sVentertainment executives
+p4092
+V0.590603
+p4093
+sVcedar point communications
+p4094
+V0.792594
+p4095
+sVarbor networks
+p4096
+V0.622091
+p4097
+sVbs
+p4098
+V0.442332
+p4099
+sVmba
+p4100
+V0.439962
+p4101
+sVnasdaq
+p4102
+V0.431789
+p4103
+sVnortel networks
+p4104
+V0.641984
+p4105
+sVxcom
+p4106
+V0.431588
+p4107
+sVyankee group
+p4108
+V0.591047
+p4109
+sVakamai technologies
+p4110
+V0.645822
+p4111
+sVgeneral partner
+p4112
+V0.833155
+p4113
+sVcovestor
+p4114
+V0.43336
+p4115
+sVredstone
+p4116
+V0.45455
+p4117
+sVventure capitalists
+p4118
+V0.613136
+p4119
+sVexecutive committee member
+p4120
+V0.787022
+p4121
+sVspark capital
+p4122
+V0.679974
+p4123
+sVtodd dagres
+p4124
+V0.692984
+p4125
+sVwealth
+p4126
+V0.432285
+p4127
+sVboston university
+p4128
+V0.587506
+p4129
+sVriver delta networks
+p4130
+V0.792616
+p4131
+sVsmith barney/robinson humphrey
+p4132
+V0.750936
+p4133
+sVbattery ventures
+p4134
+V0.845429
+p4135
+sVvice president
+p4136
+V0.746473
+p4137
+sVbusiness development manager
+p4138
+V0.735948
+p4139
+sVhartford ct
+p4140
+V0.585327
+p4141
+sVdealmakers
+p4142
+V0.463793
+p4143
+sVmontgomery securities
+p4144
+V0.579532
+p4145
+sVdigital equipment corporation
+p4146
+V0.734545
+p4147
+sVqtera
+p4148
+V0.431712
+p4149
+sVsiemens
+p4150
+V0.445018
+p4151
+sVkateeva
+p4152
+V0.433328
+p4153
+sVcommunications investment practice
+p4154
+V0.815478
+p4155
+sVcommunications industries
+p4156
+V0.637925
+p4157
+sVverivue
+p4158
+V0.433391
+p4159
+sVtrinity college
+p4160
+V0.586716
+p4161
+sVinformation technology
+p4162
+V0.596051
+p4163
+sVmotorola
+p4164
+V0.486208
+p4165
+sVsenior technology analyst
+p4166
+V0.993037
+p4167
+sVlevel
+p4168
+V0.431527
+p4169
+sVbroadbus technologies
+p4170
+V0.601693
+p4171
+sVtimes
+p4172
+V0.430187
+p4173
+sVmedia
+p4174
+V0.432484
+p4175
+sVforbes midas list
+p4176
+V0.792567
+p4177
+sVinvestments
+p4178
+V0.482224
+p4179
+ssg114
+S'http://www.crunchbase.com/person/todd-dagres/primary-image/raw'
+p4180
+sa(dp4181
+g2
+S'Ian'
+p4182
+sg4
+S'Clarke'
+p4183
+sg6
+S'http://twitter.com/sanity'
+p4184
+sg8
+S'http://www.facebook.com/sanity'
+p4185
+sg10
+S'http://www.linkedin.com/in/iancjclarke'
+p4186
+sg12
+(dp4187
+Vthoof
+p4188
+V0.353133
+p4189
+sVfounder
+p4190
+V0.355553
+p4191
+sVrevenue
+p4192
+V0.375125
+p4193
+sVcommunication
+p4194
+V0.354848
+p4195
+sVnumber
+p4196
+V0.354311
+p4197
+sVentrepreneur
+p4198
+V0.406615
+p4199
+sVscientist
+p4200
+V0.384396
+p4201
+sVonline video website
+p4202
+V0.888288
+p4203
+sVtechnology
+p4204
+V0.360932
+p4205
+sVissues
+p4206
+V0.36159
+p4207
+sVnews website
+p4208
+V0.616066
+p4209
+sVdiverse commercial ventures
+p4210
+V0.938355
+p4211
+sVspeech
+p4212
+V0.361316
+p4213
+sVtrue freedom
+p4214
+V0.629067
+p4215
+sVintellectual property law
+p4216
+V0.995742
+p4217
+sVdata structure
+p4218
+V0.632928
+p4219
+sVoutspoken thinker
+p4220
+V0.781681
+p4221
+sVrevver
+p4222
+V0.433266
+p4223
+sVanonymous peer-to-peer network
+p4224
+V0.966004
+p4225
+sVbusiness innovation
+p4226
+V0.701726
+p4227
+sVfreenet project
+p4228
+V0.791163
+p4229
+sVian clarke
+p4230
+V0.835829
+p4231
+sVvideo creators
+p4232
+V0.635138
+p4233
+sVcoordinator
+p4234
+V0.386945
+p4235
+sVprecursor
+p4236
+V0.400821
+p4237
+sVpowerful machine
+p4238
+V0.634614
+p4239
+sVtrack record
+p4240
+V0.686274
+p4241
+ssg114
+S'http://www.crunchbase.com/person/ian-clarke/primary-image/raw'
+p4242
+sa(dp4243
+g2
+S'George'
+p4244
+sg4
+S'Garrick'
+p4245
+sg6
+S'http://twitter.com/ggarrick'
+p4246
+sg8
+g119
+sg10
+g119
+sg12
+(dp4247
+Vgrowth track
+p4248
+V0.538915
+p4249
+sVmajor partnership deals
+p4250
+V0.732572
+p4251
+sVpurdue university
+p4252
+V0.524547
+p4253
+sVnielsen company
+p4254
+V0.551981
+p4255
+sVipo
+p4256
+V0.351392
+p4257
+sVwebsite optimization
+p4258
+V0.520012
+p4259
+sVnorth america
+p4260
+V0.521847
+p4261
+sVengineering
+p4262
+V0.336175
+p4263
+sVwine.com
+p4264
+V0.376248
+p4265
+sVinformation resources inc.
+p4266
+V0.70404
+p4267
+sVjingle networks
+p4268
+V0.833922
+p4269
+sVmaster‚\u20ac\u2122s degree
+p4270
+V0.522368
+p4271
+sVbachelor‚\u20ac\u2122s degrees
+p4272
+V0.519407
+p4273
+sVplaceware‚\u20ac\u2122s acquisition
+p4274
+V0.530418
+p4275
+sVsales turnaround
+p4276
+V0.550604
+p4277
+sVofferpal media
+p4278
+V0.562558
+p4279
+sVgames
+p4280
+V0.342937
+p4281
+sVflycast communications
+p4282
+V0.528003
+p4283
+sVnation‚\u20ac\u2122s largest consumer
+p4284
+V0.703202
+p4285
+sVceo
+p4286
+V0.984183
+p4287
+sVstartup
+p4288
+V0.401508
+p4289
+sVhsn
+p4290
+V0.378814
+p4291
+sVmochi media
+p4292
+V0.593437
+p4293
+sVgeorge garrick
+p4294
+V0.613297
+p4295
+sVinternet‚\u20ac\u2122s largest wine
+p4296
+V0.740049
+p4297
+sVgame developers
+p4298
+V0.564885
+p4299
+sVmathematics
+p4300
+V0.336206
+p4301
+sVinformation company
+p4302
+V0.527031
+p4303
+sVpresident
+p4304
+V0.38746
+p4305
+sVdirect-response advertising network
+p4306
+V0.753102
+p4307
+sVrevenues
+p4308
+V0.420339
+p4309
+sVphone directory
+p4310
+V0.547201
+p4311
+sVamazon
+p4312
+V0.341746
+p4313
+sVadvertising company
+p4314
+V0.553943
+p4315
+sVtenure
+p4316
+V0.358643
+p4317
+sVhigh-intensity lighting
+p4318
+V0.545015
+p4319
+sVinternet successes
+p4320
+V0.531156
+p4321
+sVmicrosoft office livemeeting
+p4322
+V0.721157
+p4323
+ssg114
+S'http://www.crunchbase.com/person/george-garrick/primary-image/raw'
+p4324
+sa(dp4325
+g2
+S'Scott'
+p4326
+sg4
+S'Kliger'
+p4327
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/scott-kliger/0/650/619'
+p4328
+sg12
+(dp4329
+Vmemberships
+p4330
+V0.519522
+p4331
+sVfounder
+p4332
+V0.590778
+p4333
+sVscott kliger
+p4334
+V0.84362
+p4335
+sVtownsend street
+p4336
+V0.607209
+p4337
+sVvice president
+p4338
+V0.612739
+p4339
+sVtwitter
+p4340
+V0.561903
+p4341
+sVbusiness graph
+p4342
+V0.602248
+p4343
+sVlinkedin
+p4344
+V0.585165
+p4345
+sVcrunchbase
+p4346
+V0.535135
+p4347
+sVgoogle plus
+p4348
+V0.739558
+p4349
+sVnarrative communications
+p4350
+V0.61144
+p4351
+sVgeneral partner
+p4352
+V0.620165
+p4353
+sVllc
+p4354
+V0.519505
+p4355
+sVlotus development corporation
+p4356
+V0.698723
+p4357
+sVnews
+p4358
+V0.519675
+p4359
+sVnarrrative communications
+p4360
+V0.613967
+p4361
+sVblog
+p4362
+V0.519526
+p4363
+sVwebpresence
+p4364
+V0.521976
+p4365
+sVjingle networks
+p4366
+V0.962163
+p4367
+sVtitle
+p4368
+V0.521231
+p4369
+sVsupport
+p4370
+V0.519639
+p4371
+sVwordperfect
+p4372
+V0.524256
+p4373
+sVjan
+p4374
+V0.721002
+p4375
+sVprimary role
+p4376
+V0.630267
+p4377
+sVperson details
+p4378
+V0.619216
+p4379
+sVlocation
+p4380
+V0.522079
+p4381
+sVsan francisco
+p4382
+V0.60586
+p4383
+sVemail
+p4384
+V0.542941
+p4385
+sVjobs
+p4386
+V0.521706
+p4387
+sVchief architect
+p4388
+V0.605706
+p4389
+sVshare
+p4390
+V0.543342
+p4391
+sVcompany
+p4392
+V0.521196
+p4393
+sVjun
+p4394
+V0.524979
+p4395
+sVfacebook
+p4396
+V0.565516
+p4397
+sVrelease notes
+p4398
+V0.611548
+p4399
+sVadvertising technology
+p4400
+V0.61424
+p4401
+sVfree business model
+p4402
+V0.696233
+p4403
+sVadvisor roles
+p4404
+V0.607822
+p4405
+sVinfo
+p4406
+V0.522405
+p4407
+sVmale
+p4408
+V0.522115
+p4409
+sVinterim ceo
+p4410
+V0.626974
+p4411
+sVsite map
+p4412
+V0.612652
+p4413
+sVhome
+p4414
+V0.52054
+p4415
+sVgender
+p4416
+V0.520056
+p4417
+sVrights
+p4418
+V0.51936
+p4419
+sVclick/touch  update
+p4420
+V0.658717
+p4421
+sVgeneration products
+p4422
+V0.610711
+p4423
+sVsage hill partners
+p4424
+V0.713587
+p4425
+sVcto
+p4426
+V0.734731
+p4427
+sVdevelopment team lead
+p4428
+V0.698501
+p4429
+ssg114
+g119
+sa(dp4430
+g2
+S'Dr. Francisco'
+p4431
+sg4
+S'J Martin'
+p4432
+sg6
+S'http://twitter.com/aficionado'
+p4433
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/cisko'
+p4434
+sg12
+(dp4435
+Vmathematical sciences
+p4436
+V0.554121
+p4437
+sVpersonalization technologies
+p4438
+V0.586541
+p4439
+sVtechnical university
+p4440
+V0.700227
+p4441
+sVisoco-intelligent software components
+p4442
+V0.857144
+p4443
+sVnew challenges
+p4444
+V0.870357
+p4445
+sVresearcher
+p4446
+V0.345961
+p4447
+sVcompanies
+p4448
+V0.350491
+p4449
+sVpersonal finance
+p4450
+V0.568971
+p4451
+sVfrancisco j martin
+p4452
+V0.615428
+p4453
+sVbusiness solutions
+p4454
+V0.602385
+p4455
+sVcloud-based service
+p4456
+V0.550268
+p4457
+sVsemantic web technologies
+p4458
+V0.858807
+p4459
+sVdeveloper
+p4460
+V0.345131
+p4461
+sVbigml
+p4462
+V0.383617
+p4463
+sVsa. isoco
+p4464
+V0.602955
+p4465
+sVvideos
+p4466
+V0.344268
+p4467
+sVspanish council
+p4468
+V0.558561
+p4469
+sVunited kingdom
+p4470
+V0.552946
+p4471
+sVmusic
+p4472
+V0.344311
+p4473
+sVseamless-to-integrate machine learning
+p4474
+V0.759198
+p4475
+sVhighest honors
+p4476
+V0.557958
+p4477
+sVartificial intelligence
+p4478
+V0.981721
+p4479
+sVph.d.
+p4480
+V0.374361
+p4481
+sVsocial recommendation technologies
+p4482
+V0.830287
+p4483
+sVapplications
+p4484
+V0.392172
+p4485
+sVfive-year degree
+p4486
+V0.574294
+p4487
+sVvalencia
+p4488
+V0.351142
+p4489
+sVartificial intelligence research
+p4490
+V0.77761
+p4491
+sVoregon state university
+p4492
+V0.761765
+p4493
+sVcatalonia
+p4494
+V0.357705
+p4495
+sVschool
+p4496
+V0.371734
+p4497
+sVscientific research
+p4498
+V0.558761
+p4499
+sVpassionate scientist-entrepreneur
+p4500
+V0.625669
+p4501
+sVmachine learning
+p4502
+V0.792166
+p4503
+sVdomains
+p4504
+V0.346649
+p4505
+sVelectrical engineering
+p4506
+V0.552032
+p4507
+sVstrands
+p4508
+V0.558561
+p4509
+ssg114
+S'http://www.crunchbase.com/person/dr-francisco-j-martin/primary-image/raw'
+p4510
+sa(dp4511
+g2
+S'Gabriel'
+p4512
+sg4
+S'Aldamiz-echevarria'
+p4513
+sg6
+S'http://twitter.com/aldamiz'
+p4514
+sg8
+S'http://www.facebook.com/Chicisimo'
+p4515
+sg10
+S'http://www.linkedin.com/in/aldamiz'
+p4516
+sg12
+(dp4517
+Vdirectors
+p4518
+V0.279401
+p4519
+sVusa
+p4520
+V0.28359
+p4521
+sVgirls
+p4522
+V0.293311
+p4523
+sVceo
+p4524
+V0.36328
+p4525
+sVvice president
+p4526
+V0.813435
+p4527
+sVchicisimo
+p4528
+V0.294111
+p4529
+sVinternational community
+p4530
+V0.786342
+p4531
+sVboard
+p4532
+V0.279642
+p4533
+sVmember
+p4534
+V0.280003
+p4535
+sVdigital manufacturing company
+p4536
+V0.97906
+p4537
+sVpersonal style
+p4538
+V0.781338
+p4539
+sVentrepreneur team
+p4540
+V0.803416
+p4541
+sVsaktec robotics
+p4542
+V0.742964
+p4543
+sVsan francisco
+p4544
+V0.726103
+p4545
+sVdec
+p4546
+V0.353104
+p4547
+sVstrands
+p4548
+V0.388544
+p4549
+sVgabriel
+p4550
+V0.560565
+p4551
+ssg114
+S'http://www.crunchbase.com/person/gabriel-aldamiz-echevarria/primary-image/raw'
+p4552
+sa(dp4553
+g2
+S'Trevor'
+p4554
+sg4
+S'Legwinski'
+p4555
+sg6
+S'http://twitter.com/convercycle'
+p4556
+sg8
+g119
+sg10
+g119
+sg12
+(dp4557
+Vfitch
+p4558
+V0.325246
+p4559
+sVmba
+p4560
+V0.307087
+p4561
+sVtrevor
+p4562
+V0.91469
+p4563
+sVgeneral mills
+p4564
+V0.581054
+p4565
+sVsocial media
+p4566
+V0.632531
+p4567
+sVproduct marketing
+p4568
+V0.579467
+p4569
+sVcambria cove
+p4570
+V0.671558
+p4571
+sVst. norbert college
+p4572
+V0.94727
+p4573
+sVstrategic thinker
+p4574
+V0.680414
+p4575
+sVnumerous fortune
+p4576
+V0.619935
+p4577
+sVcustomers
+p4578
+V0.259388
+p4579
+sVproduct development
+p4580
+V0.577834
+p4581
+sVbachelors degree
+p4582
+V0.624497
+p4583
+sVbusiness development
+p4584
+V0.58605
+p4585
+sVoregon state university
+p4586
+V0.862945
+p4587
+sVinternational marketing degree
+p4588
+V0.866422
+p4589
+sVstore operations
+p4590
+V0.567369
+p4591
+sVroles
+p4592
+V0.293475
+p4593
+sVexperience
+p4594
+V0.267248
+p4595
+sVmtv networks
+p4596
+V0.619834
+p4597
+sVbond university
+p4598
+V0.580872
+p4599
+sVstrands
+p4600
+V0.313565
+p4601
+ssg114
+S'http://www.crunchbase.com/person/trevor-legwinski/primary-image/raw'
+p4602
+sa(dp4603
+g2
+S'Dr. Marc'
+p4604
+sg4
+S'Torrens'
+p4605
+sg6
+S'https://twitter.com/marctorrens'
+p4606
+sg8
+g119
+sg10
+S'https://www.linkedin.com/in/marctorrens'
+p4607
+sg12
+(dp4608
+Vprivate institutions
+p4609
+V0.489154
+p4610
+sVventure capital
+p4611
+V0.483913
+p4612
+sVtechnical university
+p4613
+V0.491383
+p4614
+sVfao future lab
+p4615
+V0.606455
+p4616
+sVconstraint-based techniques
+p4617
+V0.500959
+p4618
+sVuser models
+p4619
+V0.480702
+p4620
+sVepfl
+p4621
+V0.419532
+p4622
+sVamerican association
+p4623
+V0.480719
+p4624
+sVeducational background
+p4625
+V0.479983
+p4626
+sVco-founder
+p4627
+V0.438407
+p4628
+sVcontext-aware computing
+p4629
+V0.487855
+p4630
+sVph.d. degree
+p4631
+V0.486697
+p4632
+sViconomic systems s.a.
+p4633
+V0.569002
+p4634
+sVbusiness traveler
+p4635
+V0.48416
+p4636
+sVbusiness plan summary
+p4637
+V0.545166
+p4638
+sVmckinsey
+p4639
+V0.418894
+p4640
+sVelectronic catalogs
+p4641
+V0.571404
+p4642
+sVsuccessful sale
+p4643
+V0.481969
+p4644
+sVmember
+p4645
+V0.423904
+p4646
+sVfao duties
+p4647
+V0.538087
+p4648
+sVmarc torrens
+p4649
+V0.50724
+p4650
+sVfao ag
+p4651
+V0.556157
+p4652
+sVinnovator
+p4653
+V0.420306
+p4654
+sVartificial intelligence
+p4655
+V0.760136
+p4656
+sVe-commerce field
+p4657
+V0.487347
+p4658
+sVinternational conferences
+p4659
+V0.480706
+p4660
+sVbusiness plan competition
+p4661
+V0.546451
+p4662
+sVcutting-edge software
+p4663
+V0.4838
+p4664
+sVconstraint-based reasoning
+p4665
+V0.492761
+p4666
+sVtechnology officer
+p4667
+V0.486377
+p4668
+sVjava constraint library
+p4669
+V0.564499
+p4670
+sVeth zurich
+p4671
+V0.480703
+p4672
+sVcompany
+p4673
+V0.45941
+p4674
+sVentrepreneurship
+p4675
+V0.430343
+p4676
+sVcatalan association
+p4677
+V0.484195
+p4678
+sVcreate switzerland
+p4679
+V0.480186
+p4680
+sVfao a.g.
+p4681
+V0.537511
+p4682
+sViconomic systems
+p4683
+V0.819874
+p4684
+sVtravel domain
+p4685
+V0.486421
+p4686
+sVpostgraduate certificate
+p4687
+V0.47614
+p4688
+sVhuge volume data-processing
+p4689
+V0.588742
+p4690
+sVph.d. research
+p4691
+V0.489332
+p4692
+sVusability fields
+p4693
+V0.4825
+p4694
+sVscience
+p4695
+V0.430256
+p4696
+sVmobile devices
+p4697
+V0.480645
+p4698
+sVhalf-time postdoctoral researcher
+p4699
+V0.55998
+p4700
+sVrelevant business
+p4701
+V0.489977
+p4702
+sVswiss federal institute
+p4703
+V0.960662
+p4704
+sVexchange student
+p4705
+V0.490456
+p4706
+sVartificial intelligence lab
+p4707
+V0.575014
+p4708
+ssg114
+S'http://www.crunchbase.com/person/dr-marc-torrens/primary-image/raw'
+p4709
+sa(dp4710
+g2
+S'Gina'
+p4711
+sg4
+S'Bianchini'
+p4712
+sg6
+S'http://twitter.com/ginab'
+p4713
+sg8
+S'http://www.facebook.com/ginabianchini'
+p4714
+sg10
+S'http://www.linkedin.com/in/ginabianchini'
+p4715
+sg12
+(dp4716
+Vcupertino
+p4717
+V0.370326
+p4718
+sVcnbc
+p4719
+V0.393734
+p4720
+sVfounder
+p4721
+V0.347567
+p4722
+sVhuffington post
+p4723
+V0.635488
+p4724
+sVmarc andreessen
+p4725
+V0.602318
+p4726
+sVstanford university
+p4727
+V0.592046
+p4728
+sVm.b.a
+p4729
+V0.393408
+p4730
+sVmightybell
+p4731
+V0.424185
+p4732
+sVhonors
+p4733
+V0.352746
+p4734
+sVprofessional social networks
+p4735
+V0.850907
+p4736
+sVexpert
+p4737
+V0.351349
+p4738
+sVfortune magazine
+p4739
+V0.589486
+p4740
+sVultimate game changers
+p4741
+V0.84072
+p4742
+sVwww.ning.com
+p4743
+V0.345953
+p4744
+sVstanford business school
+p4745
+V0.814033
+p4746
+sVnew york times
+p4747
+V0.790419
+p4748
+sVcnn
+p4749
+V0.350957
+p4750
+sVreal world
+p4751
+V0.624798
+p4752
+sVnpr
+p4753
+V0.355394
+p4754
+sVsocial networks
+p4755
+V0.868862
+p4756
+sVinterests
+p4757
+V0.345666
+p4758
+sVgina bianchini
+p4759
+V0.961787
+p4760
+sVfast company
+p4761
+V0.569244
+p4762
+sVnew guard
+p4763
+V0.58463
+p4764
+sVwww.mightybell.com
+p4765
+V0.34734
+p4766
+sVwatch
+p4767
+V0.345585
+p4768
+sVbloomberg businessweek
+p4769
+V0.643962
+p4770
+sVpurpose
+p4771
+V0.347049
+p4772
+sVwall street journal
+p4773
+V0.79185
+p4774
+sVcommunities
+p4775
+V0.34573
+p4776
+sVlargest social platform
+p4777
+V0.838648
+p4778
+sVcharlie rose
+p4779
+V0.569995
+p4780
+sVceo
+p4781
+V0.371908
+p4782
+sVmarie claire
+p4783
+V0.605312
+p4784
+sVning
+p4785
+V0.394756
+p4786
+sVnerds
+p4787
+V0.381708
+p4788
+ssg114
+S'http://www.crunchbase.com/person/gina-bianchini/primary-image/raw'
+p4789
+sa(dp4790
+g2
+S'David'
+p4791
+sg4
+S'Cowan'
+p4792
+sg6
+S'http://twitter.com/davidcowan'
+p4793
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/davidjcowan'
+p4794
+sg12
+(dp4795
+Vinitial chairman
+p4796
+V0.522826
+p4797
+sVtripwire
+p4798
+V0.287733
+p4799
+sVgoogle
+p4800
+V0.2472
+p4801
+sVtumbleweed
+p4802
+V0.373911
+p4803
+sVvalicert
+p4804
+V0.245571
+p4805
+sVperimeter esecurity
+p4806
+V0.542702
+p4807
+sVp-com
+p4808
+V0.248951
+p4809
+sVventure investors
+p4810
+V0.533067
+p4811
+sVharvard university
+p4812
+V0.480067
+p4813
+sVflycast
+p4814
+V0.248662
+p4815
+sVflock
+p4816
+V0.256656
+p4817
+sVworldtalk
+p4818
+V0.245508
+p4819
+sVbessemer-funded spinout
+p4820
+V0.547954
+p4821
+sVcounterpane
+p4822
+V0.295843
+p4823
+sVciena
+p4824
+V0.3074
+p4825
+sVkeynote
+p4826
+V0.258556
+p4827
+sVpsi-net
+p4828
+V0.24879
+p4829
+sVnetli
+p4830
+V0.248566
+p4831
+sVdata security investments
+p4832
+V0.758693
+p4833
+sVhotjobs
+p4834
+V0.248374
+p4835
+sVverisign
+p4836
+V0.372646
+p4837
+sVm.b.a. degrees
+p4838
+V0.479355
+p4839
+sVnetwork technology
+p4840
+V0.503482
+p4841
+sVsymantec
+p4842
+V0.275169
+p4843
+sVpostini
+p4844
+V0.300687
+p4845
+sVrsa
+p4846
+V0.347082
+p4847
+sVbessemer venture partners
+p4848
+V0.964176
+p4849
+sVbt
+p4850
+V0.272662
+p4851
+sVacq.
+p4852
+V0.24658
+p4853
+sVinternet services
+p4854
+V0.495388
+p4855
+sVworld
+p4856
+V0.250234
+p4857
+sVvimo
+p4858
+V0.302023
+p4859
+sVcyota
+p4860
+V0.246422
+p4861
+sVearly-stage investments
+p4862
+V0.567306
+p4863
+sVa.b.
+p4864
+V0.245292
+p4865
+sVconsumer internet
+p4866
+V0.492874
+p4867
+sVqualys
+p4868
+V0.24576
+p4869
+sVpublic companies
+p4870
+V0.51247
+p4871
+sVdavid
+p4872
+V0.424698
+p4873
+sVblue nile
+p4874
+V0.511578
+p4875
+sVforbes midas list
+p4876
+V0.827403
+p4877
+sVnominum
+p4878
+V0.290562
+p4879
+ssg114
+S'http://www.crunchbase.com/person/david-cowan/primary-image/raw'
+p4880
+sa(dp4881
+g2
+S'Chini'
+p4882
+sg4
+S'Krishnan'
+p4883
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/company/quantenna-communications'
+p4884
+sg12
+(dp4885
+Vfounder
+p4886
+V0.357274
+p4887
+sVtmwd
+p4888
+V0.348017
+p4889
+sVbessemer venture partners
+p4890
+V0.938118
+p4891
+sVoperational roles
+p4892
+V0.620131
+p4893
+sVaffordable health insurance
+p4894
+V0.94651
+p4895
+sVindian institute
+p4896
+V0.592549
+p4897
+sVamericans
+p4898
+V0.361548
+p4899
+sVvimo inc.
+p4900
+V0.818499
+p4901
+sVconsumer internet opportunities
+p4902
+V0.885424
+p4903
+sVduke university
+p4904
+V0.595761
+p4905
+sVcommunications security
+p4906
+V0.597969
+p4907
+sVsrinivasan
+p4908
+V0.401299
+p4909
+sVemphasis
+p4910
+V0.352191
+p4911
+sVproduct-marketing manager
+p4912
+V0.588838
+p4913
+sVbessemer-funded company
+p4914
+V0.61363
+p4915
+sVpublic
+p4916
+V0.348411
+p4917
+sVceo
+p4918
+V0.380687
+p4919
+sVenterprise integration technologies
+p4920
+V0.829677
+p4921
+sVkrishnan
+p4922
+V0.413877
+p4923
+sVchini
+p4924
+V0.588255
+p4925
+sVacquisitions
+p4926
+V0.359952
+p4927
+sVnational leader
+p4928
+V0.642706
+p4929
+sVeit
+p4930
+V0.391224
+p4931
+sVscience
+p4932
+V0.380003
+p4933
+sVvalicert inc.
+p4934
+V0.605395
+p4935
+sVexperience
+p4936
+V0.35775
+p4937
+sVfinancial services
+p4938
+V0.620992
+p4939
+sVhigh technology industry
+p4940
+V0.944012
+p4941
+sVcto
+p4942
+V0.393342
+p4943
+ssg114
+S'http://www.crunchbase.com/person/chini-krishnan/primary-image/raw'
+p4944
+sa(dp4945
+g2
+S'Jim'
+p4946
+sg4
+S'Greener'
+p4947
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/jim-greener/5/a18/bba'
+p4948
+sg12
+(dp4949
+Vvideos
+p4950
+V0.433252
+p4951
+sVtownsend street
+p4952
+V0.583529
+p4953
+sVboard member
+p4954
+V0.580202
+p4955
+sVshare
+p4956
+V0.472827
+p4957
+sVlinkedin
+p4958
+V0.564176
+p4959
+sVcrunchbase
+p4960
+V0.45291
+p4961
+sVgoogle plus
+p4962
+V0.798464
+p4963
+sVnews
+p4964
+V0.433498
+p4965
+sVimages
+p4966
+V0.433375
+p4967
+sVsan francisco
+p4968
+V0.575161
+p4969
+sVeducation
+p4970
+V0.433744
+p4971
+sVclick/touch  update
+p4972
+V0.677528
+p4973
+sVwebpresence
+p4974
+V0.436262
+p4975
+sVjim greener
+p4976
+V0.90084
+p4977
+sVtwitter
+p4978
+V0.521221
+p4979
+sVtitle
+p4980
+V0.434925
+p4981
+sVsupport
+p4982
+V0.431647
+p4983
+sVblog
+p4984
+V0.433001
+p4985
+sVperson details
+p4986
+V0.591732
+p4987
+sVlocation
+p4988
+V0.436551
+p4989
+sVemail
+p4990
+V0.469774
+p4991
+sVjobs
+p4992
+V0.43549
+p4993
+sVbusiness graph
+p4994
+V0.578702
+p4995
+sVcompany
+p4996
+V0.434832
+p4997
+sVaol
+p4998
+V0.43673
+p4999
+sVfacebook
+p5000
+V0.528144
+p5001
+sVrelease notes
+p5002
+V0.582198
+p5003
+sVadvisor roles
+p5004
+V0.595735
+p5005
+sVinfo
+p5006
+V0.437063
+p5007
+sVsite map
+p5008
+V0.575879
+p5009
+sVgender
+p5010
+V0.439576
+p5011
+sVrights
+p5012
+V0.43253
+p5013
+sVmemberships
+p5014
+V0.440054
+p5015
+sVlifelock
+p5016
+V0.461322
+p5017
+sVmale
+p5018
+V0.436647
+p5019
+sVcoo
+p5020
+V0.460911
+p5021
+ssg114
+g119
+sa(dp5022
+g2
+S'Todd'
+p5023
+sg4
+S'Davis'
+p5024
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/profile/view?id=912627'
+p5025
+sg12
+(dp5026
+Vceos
+p5027
+V0.444185
+p5028
+sVmultiple technology startup
+p5029
+V0.728375
+p5030
+sVpeople
+p5031
+V0.428352
+p5032
+sVservice elite award
+p5033
+V0.809601
+p5034
+sVtrueaddressÆ service
+p5035
+V0.586127
+p5036
+sVdell vision award
+p5037
+V0.813197
+p5038
+sVcompany crm magazine
+p5039
+V0.764696
+p5040
+sVforefront
+p5041
+V0.447993
+p5042
+sVmillions
+p5043
+V0.432826
+p5044
+sVyoung entrepreneur
+p5045
+V0.601766
+p5046
+sVpartech international
+p5047
+V0.598083
+p5048
+sVdraper fisher jurvetson
+p5049
+V0.759359
+p5050
+sVbusiness journal
+p5051
+V0.608953
+p5052
+sVarizona business leadership
+p5053
+V0.783662
+p5054
+sVchairman
+p5055
+V0.442777
+p5056
+sVannual revenue
+p5057
+V0.575507
+p5058
+sVamerican business award
+p5059
+V0.942568
+p5060
+sVcapital firms
+p5061
+V0.574361
+p5062
+sVidentity theft crimes
+p5063
+V0.784998
+p5064
+sVlargest accounts
+p5065
+V0.575535
+p5066
+sVbest new product
+p5067
+V0.738948
+p5068
+sVstevieÆ award
+p5069
+V0.620853
+p5070
+sVentrepreneurship
+p5071
+V0.434856
+p5072
+sVchief executive officer
+p5073
+V0.782232
+p5074
+sVsuccessful marketing organization
+p5075
+V0.724553
+p5076
+sVleadership awards
+p5077
+V0.619397
+p5078
+sVlifelock identity alertÆ
+p5079
+V0.744124
+p5080
+sVbest executive
+p5081
+V0.593701
+p5082
+sVcorporate ladder
+p5083
+V0.571952
+p5084
+sVassociation
+p5085
+V0.429777
+p5086
+sVbaylor university
+p5087
+V0.575576
+p5088
+sVchoice award
+p5089
+V0.611619
+p5090
+sVnational business
+p5091
+V0.627217
+p5092
+sVdollars
+p5093
+V0.434502
+p5094
+sVelite circle
+p5095
+V0.582031
+p5096
+sVcompanies
+p5097
+V0.427771
+p5098
+sVmembership
+p5099
+V0.427026
+p5100
+sVexcellence honor
+p5101
+V0.565006
+p5102
+sVtimes
+p5103
+V0.429332
+p5104
+sVwasatch venture fund
+p5105
+V0.735297
+p5106
+sVhistory
+p5107
+V0.427585
+p5108
+sVorange county/desert cities
+p5109
+V0.753621
+p5110
+sVexecutive management
+p5111
+V0.584224
+p5112
+sVdavis
+p5113
+V0.510806
+p5114
+sVernst
+p5115
+V0.435989
+p5116
+sVprivate investors
+p5117
+V0.568248
+p5118
+sVconsumer
+p5119
+V0.432292
+p5120
+sVregion
+p5121
+V0.430195
+p5122
+sVinvestment capital
+p5123
+V0.574857
+p5124
+ssg114
+S'http://www.crunchbase.com/person/todd-davis/primary-image/raw'
+p5125
+sa(dp5126
+g2
+S'Marc'
+p5127
+sg4
+S'Hedlund'
+p5128
+sg6
+S'http://twitter.com/marcprecipice'
+p5129
+sg8
+g119
+sg10
+g119
+sg12
+(dp5130
+Vwebsite
+p5131
+V0.438282
+p5132
+sVsana security
+p5133
+V0.698318
+p5134
+sVo'reilly media
+p5135
+V0.670845
+p5136
+sVceo
+p5137
+V0.490114
+p5138
+sVwesabe
+p5139
+V0.438632
+p5140
+sVwheaties
+p5141
+V0.515395
+p5142
+sVwebstorm
+p5143
+V0.522495
+p5144
+sVmarc hedlund
+p5145
+V0.901492
+p5146
+sVvp
+p5147
+V0.616605
+p5148
+sVwallet
+p5149
+V0.498116
+p5150
+sVengineering
+p5151
+V0.466477
+p5152
+sVpopular power
+p5153
+V0.613406
+p5154
+sVpersonal finance management
+p5155
+V0.872453
+p5156
+sVorganic online
+p5157
+V0.613459
+p5158
+sVcto
+p5159
+V0.505073
+p5160
+sVlucas online
+p5161
+V0.639231
+p5162
+sVco-founder
+p5163
+V0.49242
+p5164
+sVstripe
+p5165
+V0.498861
+p5166
+ssg114
+S'http://www.crunchbase.com/person/marc-hedlund/primary-image/raw'
+p5167
+sa(dp5168
+g2
+S'John'
+p5169
+sg4
+S'Witchel'
+p5170
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/in/jwitchel'
+p5171
+sg12
+(dp5172
+Vpolitical science
+p5173
+V0.388922
+p5174
+sVfounder
+p5175
+V0.317166
+p5176
+sVviolation
+p5177
+V0.320052
+p5178
+sVstanford university
+p5179
+V0.450639
+p5180
+sVred gorilla
+p5181
+V0.468403
+p5182
+sVncaa champion
+p5183
+V0.386144
+p5184
+sVmobile entertainment company
+p5185
+V0.497106
+p5186
+sVsan francisco
+p5187
+V0.490035
+p5188
+sVsendme
+p5189
+V0.331438
+p5190
+sVprosper lenders
+p5191
+V0.491147
+p5192
+sVactive software designer
+p5193
+V0.48194
+p5194
+sVchildren
+p5195
+V0.317144
+p5196
+sVco-founder
+p5197
+V0.342796
+p5198
+sVaccess
+p5199
+V0.317864
+p5200
+sVonline tool
+p5201
+V0.392539
+p5202
+sVgomez
+p5203
+V0.319122
+p5204
+sVgood thing
+p5205
+V0.390887
+p5206
+sVdestructive device
+p5207
+V0.386515
+p5208
+sVventure firms
+p5209
+V0.394915
+p5210
+sVbrowsercam service
+p5211
+V0.393351
+p5212
+sVsupercomputers
+p5213
+V0.32088
+p5214
+sVonline application syndication
+p5215
+V0.468714
+p5216
+sVsuspicion
+p5217
+V0.320024
+p5218
+sVp2p lending marketplace
+p5219
+V0.482871
+p5220
+sVjohn brown witchel
+p5221
+V0.839811
+p5222
+sVfidelity ventures
+p5223
+V0.397065
+p5224
+sVpossession
+p5225
+V0.317399
+p5226
+sVprosper
+p5227
+V0.503995
+p5228
+sVceo
+p5229
+V0.343254
+p5230
+sVmr. witchel
+p5231
+V0.932719
+p5232
+sVcross-browser compatibility
+p5233
+V0.396352
+p5234
+sVaccel
+p5235
+V0.322706
+p5236
+sVbankrupt
+p5237
+V0.336292
+p5238
+sVusweb
+p5239
+V0.327155
+p5240
+sVflashmob supercomputing
+p5241
+V0.408215
+p5242
+sVservices
+p5243
+V0.31785
+p5244
+sVamerican record holder
+p5245
+V0.461204
+p5246
+sVfamous quote
+p5247
+V0.472978
+p5248
+sVfelony arson
+p5249
+V0.397733
+p5250
+sVbook rental company
+p5251
+V0.493844
+p5252
+sVmassive computing collaboration
+p5253
+V0.472718
+p5254
+sVxcom corporation
+p5255
+V0.390319
+p5256
+sVbookpig
+p5257
+V0.317157
+p5258
+sVco-founding prosper
+p5259
+V0.485786
+p5260
+sVchoices
+p5261
+V0.331732
+p5262
+sVopen bar
+p5263
+V0.38635
+p5264
+sVweb consultancy
+p5265
+V0.390199
+p5266
+sVcto
+p5267
+V0.326148
+p5268
+sVsecurities act
+p5269
+V0.392833
+p5270
+sVclass action lawsuit
+p5271
+V0.477537
+p5272
+ssg114
+S'http://www.crunchbase.com/person/john-witchel/primary-image/raw'
+p5273
+sa(dp5274
+g2
+S'Kirk'
+p5275
+sg4
+S'Inglis'
+p5276
+sg6
+g119
+sg8
+g119
+sg10
+S'http://www.linkedin.com/pub/kirk-inglis/2/b32/283'
+p5277
+sg12
+(dp5278
+Vvice president
+p5279
+V0.442187
+p5280
+sVtax
+p5281
+V0.323428
+p5282
+sVmba
+p5283
+V0.327618
+p5284
+sVprosper funding llc
+p5285
+V0.664189
+p5286
+sVlegal risk
+p5287
+V0.446982
+p5288
+sVcontrollership
+p5289
+V0.350204
+p5290
+sVsan francisco
+p5291
+V0.419062
+p5292
+sVchief financial officer
+p5293
+V0.903875
+p5294
+sVprincipal financial officer
+p5295
+V0.703224
+p5296
+sVba
+p5297
+V0.32192
+p5298
+sVproductivity
+p5299
+V0.322246
+p5300
+sVprincipal accounting officer
+p5301
+V0.818904
+p5302
+sVtreasury
+p5303
+V0.36817
+p5304
+sVperformance
+p5305
+V0.32096
+p5306
+sVinglis
+p5307
+V0.591343
+p5308
+sVprosper marketplace
+p5309
+V0.823835
+p5310
+sVresources
+p5311
+V0.320827
+p5312
+sVcore variables
+p5313
+V0.437763
+p5314
+sVfinance
+p5315
+V0.353601
+p5316
+sVprovidian financial
+p5317
+V0.459706
+p5318
+sVcompany
+p5319
+V0.323547
+p5320
+sVchief operating officer
+p5321
+V0.66169
+p5322
+sVoverall financial activities
+p5323
+V0.589903
+p5324
+sVtreasurer
+p5325
+V0.34105
+p5326
+sVchartered financial analyst
+p5327
+V0.53855
+p5328
+sVnumber
+p5329
+V0.319453
+p5330
+sVlong standing career
+p5331
+V0.527103
+p5332
+sVc-level executive
+p5333
+V0.442569
+p5334
+sVcalypso
+p5335
+V0.383875
+p5336
+sVfinancial services industry
+p5337
+V0.545003
+p5338
+sVsvp chief financial
+p5339
+V0.651149
+p5340
+sVeconomics
+p5341
+V0.319441
+p5342
+sVcompanies
+p5343
+V0.319431
+p5344
+sVexperience
+p5345
+V0.31996
+p5346
+sVcfa society
+p5347
+V0.422021
+p5348
+sVmemphis state university
+p5349
+V0.525586
+p5350
+sVinc.
+p5351
+V0.339799
+p5352
+ssg114
+S'http://www.crunchbase.com/person/kirk-inglis/primary-image/raw'
+p5353
+sa.
