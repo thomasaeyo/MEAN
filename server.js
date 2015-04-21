@@ -13,7 +13,7 @@ app.post('/search', function (req, res) {
 	});
 	console.log("I received a POST request")
 	console.log(req.body['query']);
-	db.people.find({'keywords': req.body['query']}, function (err, docs) {
+	db.people.find({'keywords': req.body['query']} , function (err, docs) {
 		console.log(docs);
 		res.json(docs);
 	});
