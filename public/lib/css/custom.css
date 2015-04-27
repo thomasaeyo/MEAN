@@ -1,3 +1,4 @@
+/*
 .topbar .nav {
 	margin-top: 30px;
 }
@@ -34,6 +35,19 @@
 .top-bar .left {
 	margin-top: 6px;
 	width:600px;
+}*/
+
+.topbar {
+	margin-top: 10px;
+}
+
+.topbar ul {
+	padding-top: 15px;
+}
+
+.searchbar {
+	margin-top: 150px;
+	margin-bottom: 200px;
 }
 
 #search-button {
@@ -68,14 +82,23 @@
 	color: gray;
 }
 
-#name {
-
-}
-
 #occupation {
 	height: 25px;
 }
 
 #description {
-	margin-top: -10px;
+	margin-top: 1px;
+}
+
+
+/*PROFILE INFO*/
+h1{
+	font-size: 150%;
+}
+
+.contentbox{
+	background-color: #f1f1f1;
+	padding: 20px;
+	margin: 20px;
+	margin-right: 150px;
 }

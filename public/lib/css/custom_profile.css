@@ -1,0 +1,39 @@
+.background {
+	padding-top:1px;
+	background: #f1f1f1;
+}
+
+h1{
+	font-size: 150%;
+}
+
+.contentbox{
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.topbar {
+	margin-top: 10px;
+}
+
+.topbar ul {
+	padding-top: 15px;
+}
+
+.searchbar {
+	padding-top: 20px;
+	background: #f1f1f1;
+}
+
+#summary h1{
+	font-size: 200%;
+	font-weight: bold;
+	float: none;
+}
+
+.network_content{
+	background-color: #f1f1f1;
+}

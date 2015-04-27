@@ -1,0 +1,17 @@
+.topbar {
+	margin-top: 10px;
+}
+
+.topbar ul {
+	padding-top: 15px;
+}
+
+.searchbar {
+	padding-top: 20px;
+	background: #f1f1f1;
+}
+
+.background {
+	padding-top:1px;
+	background: #f1f1f1;
+}
