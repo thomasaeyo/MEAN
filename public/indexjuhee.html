@@ -6,6 +6,7 @@
     <title>Personafi | Welcome</title>
     <link rel="stylesheet" href="lib/foundation-5.5.1/css/foundation.min.css" />
     <link rel="stylesheet" href="lib/css/custom.css" />
+    <link rel="stylesheet" href="lib/css/webicons.css" />
     <script src="lib/foundation-5.5.1/js/vendor/modernizr.js"></script>
   </head>
   <body ng-controller="AppCtrl">
@@ -60,7 +61,7 @@
               <div class="row">
                 <!-- image -->
                 <div class="large-2 small-2 columns">
-                  <img ng-src="{{person.img}}"/>
+                  <img ng-src="{{person.img_url}}"/>
                 </div>
                 <!-- name & occupation -->
                 <div class="large-7 small-7 columns" id="description">
@@ -71,12 +72,15 @@
                   </div>
                   <div class="row">
                     <div class="large-12 columns" id="occupation">
-                      <p>{{person.occupation+", "+person.company}}</p>
+                      <!-- <p>{{person.occupation+", "+person.company}}</p> -->
                     </div>
                   </div>
                 </div>
                 <!-- links -->
                 <div class="large-3 small-3 columns">
+                  <a class="webicon facebook small" href={{person.facebook_url}}></a>
+                  <a class="webicon twitter small" href={{person.twitter_url}}></a>
+                  <a class="webicon linkedin small" href={{person.linkedin_url}}></a>
                 </div>
               </div>
             </div>
