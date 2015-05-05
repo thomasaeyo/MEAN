@@ -9,20 +9,8 @@ exports.findPeople = function(req, res) {
 			if (err) {
 				throw new Error(err);
 			}
-
 			res.send(people);
-			console.log(people);
 		})
-
-	// var query = {};
-	// query['keywords.' + req.params.query.toLowerCase()] = { $exists: true };
-	// Person.find(query, function(err, people) {
-	// 	if (err) {
-	// 		throw new Error(err);
-	// 	}
-	// 	// console.log(people);
-	// 	res.send(people);
-	// });
 };
 
 // return the person's profile
