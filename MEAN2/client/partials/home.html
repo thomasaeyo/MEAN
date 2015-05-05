@@ -27,13 +27,12 @@
               <div class="large-7 small-7 columns" id="description">
                 <div class="row">
                   <div class="large-12 columns" id="name">
-                    <!-- change to permalink -->
                     <h2><a ng-href="/profile/{{person._id}}">{{person.first_name + " " + person.last_name}}</a></h2>
                   </div>
                 </div>
                 <div class="row">
                   <div class="large-12 columns" id="occupation">
-                    <p>{{person.primary_role + ", " + person.primary_organization}}</p>
+                    <p>{{person.jobs[0].title + ", " + person.jobs[0].organization}}</p>
                   </div>
                 </div>
               </div>

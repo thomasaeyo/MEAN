@@ -17,4 +17,6 @@ angular.module('myApp.controllers', [])
 		success(function(response) {
 			$scope.person = response;
 		});
+
+		console.log(response.jobs);
 });
