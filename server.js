@@ -5,14 +5,12 @@ var db = mongojs('personafi',['people']);
 var bodyParser = require('body-parser');
 
 app.use(express.static(__dirname + "/public"));
-app.use('/home', express.static(__dirname + "/public/indexjuhee.html"));
 app.use(bodyParser.json());
 
 app.post('/search', function (req, res) {
 	// db.people.find(function (err, docs) {
 	// 	console.log(docs);
 	// });
-	app.use(express.static(__dirname + "/public/results.html"));
 	console.log("I received a POST request")
 	var query = {};
 	query['keywords.'+req.body['query'].toLowerCase()] = { $exists: true };

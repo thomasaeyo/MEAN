@@ -1,0 +1,19 @@
+{
+  "name": "Personafi",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-resource": "latest"
+  },
+  "authors": [
+    "ttl33 <ttl33@cornell.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

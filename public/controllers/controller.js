@@ -11,8 +11,4 @@ myApp.controller('AppCtrl', ['$scope', '$http', function($scope, $http) {
 			$scope.people = response;
 		});
 	};
-	// $http.get('/search').success(function(response) {
-	// 	console.log('I got the data I requested');
-	// 	$scope.personlist = response;	
-	// });
 }]);

@@ -1,0 +1,69 @@
+<!-- Search bar -->
+<div class="searchbar">
+  <div class="row">
+    <div class="large-8 large-centered columns">
+      <input ng-model="query" type="text" placeholder="Find People">
+    </div>
+    <div class="large-2 large-centered columns">
+      <a ng-href='/search/{{query}}' class="tiny button expand" id="search-button">Search</a>
+    </div>
+  </div> 
+</div>
+        
+<div class="row">    
+  <!-- Search Results -->
+  <div class="large-9 columns">
+    <div class="row" id="contents" ng-repeat="person in people">
+      <!-- content -->
+      <div class="large-9 columns">
+        <div class="row">
+          <div class="large-12 columns">
+            <div class="row">
+              <!-- image -->
+              <div class="large-2 small-2 columns">
+                <img ng-src="{{person.img_url}}"/>
+              </div>
+              <!-- name & occupation -->
+              <div class="large-7 small-7 columns" id="description">
+                <div class="row">
+                  <div class="large-12 columns" id="name">
+                    <!-- change to permalink -->
+                    <h2><a ng-href="/profile/{{person._id}}">{{person.first_name + " " + person.last_name}}</a></h2>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="large-12 columns" id="occupation">
+                    <p>{{person.primary_role + ", " + person.primary_organization}}</p>
+                  </div>
+                </div>
+              </div>
+              <!-- links -->
+              <div class="large-3 small-3 columns">
+                <a class="webicon facebook small" href={{person.facebook_url}}></a>
+                <a class="webicon twitter small" href={{person.twitter_url}}></a>
+                <a class="webicon linkedin small" href={{person.linkedin_url}}></a>
+              </div>
+            </div>
+          </div>
+          <!-- articles -->
+          <div class="row">
+            <div class="large-12 columns" id="article-title">
+              <!-- <h3>{{person.article_title}}</h3> -->
+            </div>
+          </div>
+          <div class="row">
+            <div class="large-12 columns" id="article-link">
+              <!-- <p>{{person.article_link}}</p> -->
+            </div>
+          </div>
+          <div class="row">
+            <div class="large-12 columns" id="article-content">
+              <!-- <p>{{person.article_content}}</p> -->
+            </div>
+          </div>
+        </div>
+        <hr/>
+      </div>
+    </div>  
+  </div>
+</div>
