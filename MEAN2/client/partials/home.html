@@ -13,7 +13,7 @@
 <div class="row">    
   <!-- Search Results -->
   <div class="large-9 columns">
-    <div class="row" id="contents" ng-repeat="person in people">
+    <div class="row" id="contents" ng-repeat="person in people | orderBy: orderProp | limitTo: quantity">
       <!-- content -->
       <div class="large-9 columns">
         <div class="row">

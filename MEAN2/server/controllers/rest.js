@@ -19,6 +19,7 @@ exports.findPerson = function(req, res) {
 		if (err) {
 			throw new Error(err);
 		}
+		console.log(person);
 		res.send(person);
 	});
 };

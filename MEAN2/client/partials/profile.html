@@ -11,6 +11,9 @@
 
       <div class="large-9 columns">   
         <h1>{{person.first_name + " " + person.last_name}}</h1>
+        <a class="webicon facebook small" href={{person.facebook_url}}></a>
+        <a class="webicon twitter small" href={{person.twitter_url}}></a>
+        <a class="webicon linkedin small" href={{person.linkedin_url}}></a>
       </div>
     </div>
   </div>
@@ -19,8 +22,8 @@
   <div id="description" class="contentbox">
     <div class="row">
       <div class="large-9 columns">
-        <h1>Description</h1>
-        <p>crawled description</p>
+        <h1>Job</h1>
+        <p>{{person.jobs[0].title + ", " + person.jobs[0].organization}}</p>
       </div>
     </div>
   </div>
@@ -30,7 +33,10 @@
     <div class="row">
       <div class="large-9 columns">
         <h1>Experience</h1>
-        <p>crawled experience</p>
+        <div class="row" id="contents" ng-repeat="experience in person.experiences">
+          <h2>{{experience.title}}</h2>
+          <h3>{{experience.organization}}</h3>
+        </div>
       </div>  
     </div>
   </div>
@@ -40,7 +46,11 @@
     <div class="row">
       <div class="large-9 columns">
         <h1>Education</h1>
-        <p>crawled experience</p>
+        <div class="row" id="contents" ng-repeat="education in person.educations">
+          <h2>{{education.school}}</h2>
+          <p>{{education.degree_type + ", " + education.major}}</p>
+          <p>{{education.graduation_year}}</p>
+        </div>
       </div>
     </div>
   </div>
@@ -50,11 +60,26 @@
     <div class="row">
       <div class="large-9 columns">
         <h1>Keywords</h1>
-        <p>crawled experience</p>
+        <ul>
+          <li ng-repeat="keyword in person.keywords">{{keyword.keyword}}</li>
+        </ul>
+        </div>
       </div>
     </div>
   </div>
 
+  <!-- news -->
+  <div id="keywords" class="contentbox">
+    <div class="row">
+      <div class="large-9 columns">
+        <h1>News</h1>
+        <div class="row" id="contents" ng-repeat="a_news in person.news">
+          <h2><a href="{{a_news.url}}">{{a_news.title}}</a></h2>
+          <p>{{a_news.author}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- People in their network -->
   <div id="network" class="network_content">
