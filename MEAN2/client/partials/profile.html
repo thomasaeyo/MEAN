@@ -90,16 +90,7 @@
           <h1 class="title">People in Their Network</h1>
           <div class="content" data-slug="panel2">
             <ul class="large-block-grid-5">
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Juhee Lee</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Thomas Lee</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Geng Tan</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
-              <li><a href="#"><img src="http://placehold.it/200x200&text=[person]">Mal Reynolds</a></li>
+              <li ng-repeat="friend in people_in_network | limitTo: 10"><a href="#"><img src="{{friend.img_url}}">{{friend.first_name + " " + friend.last_name}}</a></li>
             </ul>
           </div>
         </section>

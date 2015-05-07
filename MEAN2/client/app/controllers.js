@@ -18,7 +18,9 @@ angular.module('myApp.controllers', [])
 .controller("profileCtrl", function($scope, $http, $routeParams) {
 	$http.get('/api/profile/' + $routeParams.id).
 		success(function(response) {
-			$scope.person = response;
-			// if(person.jobs)
+			console.log(response);
+			$scope.person = response.person;
+			$scope.people_in_network = response.people_in_network;
+			console.log(response);
 		});
 });

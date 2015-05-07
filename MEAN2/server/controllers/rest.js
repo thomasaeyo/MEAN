@@ -19,7 +19,31 @@ exports.findPerson = function(req, res) {
 		if (err) {
 			throw new Error(err);
 		}
-		console.log(person);
-		res.send(person);
+
+		keywords_inter(person, function(people_in_network) {
+			var data = {
+				'person': person, 
+				'people_in_network': people_in_network
+			};
+			res.send(data);
+		})
 	});
 };
+
+// returns a set of people who share at least one common keyword
+function keywords_inter(person, callback) {
+	var keywords_list = [];
+
+	for (var i = 1; i < person.keywords.length; i++) {
+		keywords_list.push(person.keywords[i].keyword);	
+	}
+
+	Person.find(
+		{'keywords': {$elemMatch: {keyword: {$in: keywords_list}}}}, 
+		{'first_name': 1, 'last_name': 1, 'img_url': 1}, function(err, people) {
+			if (err) {
+				throw new Error(err);
+			}
+			callback(people);
+		})
+}
