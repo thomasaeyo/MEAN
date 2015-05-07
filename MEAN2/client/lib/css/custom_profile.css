@@ -3,8 +3,10 @@
 	background: #f1f1f1;
 }
 
-h1{
-	font-size: 150%;
+#summary h1{
+	font-weight: bold;
+	float: none;
+	color: black;
 }
 
 .contentbox{
@@ -13,6 +15,19 @@ h1{
 	margin: 20px;
 	margin-left: 150px;
 	margin-right: 150px;
+}
+
+.news_content {
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#contents {
+	padding: 14px;
+	font-size: 100%;
 }
 
 .topbar {
@@ -28,12 +43,35 @@ h1{
 	background: #f1f1f1;
 }
 
-#summary h1{
-	font-size: 200%;
+.network_content{
+	background-color: #f1f1f1;
+}
+
+img {
+	size: 200%;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 27px;
 	font-weight: bold;
+	color: #A9A8A8;
+	test-shadow: 2px 2px;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+	font-style: italic;
 	float: none;
 }
 
-.network_content{
-	background-color: #f1f1f1;
+
+#keywords li {
+/*	display: inline;
+	float: left;*/
 }

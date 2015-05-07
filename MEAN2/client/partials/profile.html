@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href="/">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personafi | Welcome</title>
+    <link rel="stylesheet" href="../lib/foundation-5.5.1/css/foundation.min.css" />
+    <link rel="stylesheet" href="../lib/css/custom_profile.css" />
+    <link rel="stylesheet" href="../lib/css/webicons.css" />
+    <script src="../lib/foundation-5.5.1/js/vendor/modernizr.js"></script>
+
+  </head>
+
 <!-- Summary -->    
 <div class="background">
 
@@ -34,8 +48,8 @@
       <div class="large-9 columns">
         <h1>Experience</h1>
         <div class="row" id="contents" ng-repeat="experience in person.experiences">
-          <h2>{{experience.title}}</h2>
-          <h3>{{experience.organization}}</h3>
+          <p>{{experience.title}}</p>
+          <p>{{experience.organization}}</p>
         </div>
       </div>  
     </div>
@@ -47,7 +61,7 @@
       <div class="large-9 columns">
         <h1>Education</h1>
         <div class="row" id="contents" ng-repeat="education in person.educations">
-          <h2>{{education.school}}</h2>
+          <p>{{education.school}}</p>
           <p>{{education.degree_type + ", " + education.major}}</p>
           <p>{{education.graduation_year}}</p>
         </div>
@@ -60,16 +74,15 @@
     <div class="row">
       <div class="large-9 columns">
         <h1>Keywords</h1>
-        <ul>
-          <li ng-repeat="keyword in person.keywords">{{keyword.keyword}}</li>
+        <ul class="inline-list">
+          <li ng-repeat="keyword in person.keywords" class="button round">{{keyword.keyword}}</li>
         </ul>
-        </div>
       </div>
     </div>
   </div>
 
   <!-- news -->
-  <div id="keywords" class="contentbox">
+  <div id="news" class="contentbox">
     <div class="row">
       <div class="large-9 columns">
         <h1>News</h1>
